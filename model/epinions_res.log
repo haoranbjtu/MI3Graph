@@ -1,0 +1,799 @@
+2024-01-18 02:21:12 - root - INFO      - run_epinions.py : 112 line - The 1-th epoch: 
+
+2024-01-18 02:21:12 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 3.9163760588719296, MAE is 3.7153021555680494, att_loss is 0.48638549217811
+2024-01-18 02:21:12 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.508418660897475, AUC is 0.5610439585704158 and Average Precision is 0.1699352210567602
+2024-01-18 02:21:12 - root - INFO      - run_epinions.py : 117 line - training time is 12.821161985397339
+2024-01-18 02:21:14 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.830769322135232, MAE is 3.6249323324723677, att_loss is 0.4857886406508359
+2024-01-18 02:21:14 - root - INFO      - run_epinions.py : 270 line - val time is 2.348717212677002
+2024-01-18 02:21:27 - root - INFO      - run_epinions.py : 112 line - The 2-th epoch: 
+
+2024-01-18 02:21:27 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 3.7451595893272986, MAE is 3.534701714148888, att_loss is 0.4853233305307535
+2024-01-18 02:21:27 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4999383000227121, AUC is 0.5900043842495687 and Average Precision is 0.17749001754333557
+2024-01-18 02:21:27 - root - INFO      - run_epinions.py : 117 line - training time is 12.776752591133118
+2024-01-18 02:21:29 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.625916762785478, MAE is 3.4075056422840464, att_loss is 0.48472895405509253
+2024-01-18 02:21:29 - root - INFO      - run_epinions.py : 270 line - val time is 2.38383412361145
+2024-01-18 02:21:42 - root - INFO      - run_epinions.py : 112 line - The 3-th epoch: 
+
+2024-01-18 02:21:42 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 3.4696935690366306, MAE is 3.240950731130747, att_loss is 0.4842637341756087
+2024-01-18 02:21:42 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4915603788999411, AUC is 0.5867180899980358 and Average Precision is 0.17515306455929616
+2024-01-18 02:21:42 - root - INFO      - run_epinions.py : 117 line - training time is 12.806436459223429
+2024-01-18 02:21:44 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.238443374633789, MAE is 2.991355375810103, att_loss is 0.4836605733091181
+2024-01-18 02:21:44 - root - INFO      - run_epinions.py : 270 line - val time is 2.3272128105163574
+2024-01-18 02:21:58 - root - INFO      - run_epinions.py : 112 line - The 4-th epoch: 
+
+2024-01-18 02:21:58 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 2.903355726828942, MAE is 2.659891055180476, att_loss is 0.483233969945174
+2024-01-18 02:21:58 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4831310212612152, AUC is 0.5765185052363065 and Average Precision is 0.1715391318772151
+2024-01-18 02:21:58 - root - INFO      - run_epinions.py : 117 line - training time is 13.07790344953537
+2024-01-18 02:22:01 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 2.416675719347867, MAE is 2.184663252397017, att_loss is 0.4826016940853812
+2024-01-18 02:22:01 - root - INFO      - run_epinions.py : 270 line - val time is 2.649031162261963
+2024-01-18 02:22:15 - root - INFO      - run_epinions.py : 112 line - The 5-th epoch: 
+
+2024-01-18 02:22:15 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.8692094546097975, MAE is 1.664755023442782, att_loss is 0.48218135650341326
+2024-01-18 02:22:15 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4745588233837715, AUC is 0.5693963441305928 and Average Precision is 0.16926312566284185
+2024-01-18 02:22:15 - root - INFO      - run_epinions.py : 117 line - training time is 13.34409556388855
+2024-01-18 02:22:18 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.3760817809538408, MAE is 1.1610796668312766, att_loss is 0.4815575561740182
+2024-01-18 02:22:18 - root - INFO      - run_epinions.py : 270 line - val time is 2.7085587978363037
+2024-01-18 02:22:33 - root - INFO      - run_epinions.py : 112 line - The 6-th epoch: 
+
+2024-01-18 02:22:33 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.30034051491664, MAE is 1.0389328369727502, att_loss is 0.4811179179411668
+2024-01-18 02:22:33 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.46580265347774213, AUC is 0.5656111437600878 and Average Precision is 0.16794820013844716
+2024-01-18 02:22:33 - root - INFO      - run_epinions.py : 117 line - training time is 13.524670163790384
+2024-01-18 02:22:35 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.2509638287804343, MAE is 0.9882951703938571, att_loss is 0.4805122505534779
+2024-01-18 02:22:35 - root - INFO      - run_epinions.py : 270 line - val time is 2.525630235671997
+2024-01-18 02:22:49 - root - INFO      - run_epinions.py : 112 line - The 7-th epoch: 
+
+2024-01-18 02:22:49 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.170797403042133, MAE is 0.9487583316289462, att_loss is 0.48010838948763335
+2024-01-18 02:22:49 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4568824447118319, AUC is 0.559102533564605 and Average Precision is 0.16589503465499542
+2024-01-18 02:22:49 - root - INFO      - run_epinions.py : 117 line - training time is 13.651759249823433
+2024-01-18 02:22:52 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.1836845007809726, MAE is 0.9823418747295033, att_loss is 0.4795083078471097
+2024-01-18 02:22:52 - root - INFO      - run_epinions.py : 270 line - val time is 2.5464870929718018
+2024-01-18 02:23:07 - root - INFO      - run_epinions.py : 112 line - The 8-th epoch: 
+
+2024-01-18 02:23:07 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.106128765986516, MAE is 0.9047616811899039, att_loss is 0.4791039411838238
+2024-01-18 02:23:07 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.44788456650880665, AUC is 0.5517648939517242 and Average Precision is 0.16365455718192007
+2024-01-18 02:23:07 - root - INFO      - run_epinions.py : 117 line - training time is 13.777133613824844
+2024-01-18 02:23:09 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.1042392687364058, MAE is 0.8832000927491621, att_loss is 0.4784494692629034
+2024-01-18 02:23:09 - root - INFO      - run_epinions.py : 270 line - val time is 2.588486671447754
+2024-01-18 02:23:24 - root - INFO      - run_epinions.py : 112 line - The 9-th epoch: 
+
+2024-01-18 02:23:24 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0459716411737294, MAE is 0.8240394775684063, att_loss is 0.47807810398248524
+2024-01-18 02:23:24 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4389505340502812, AUC is 0.5451614769683364 and Average Precision is 0.16171188302080794
+2024-01-18 02:23:24 - root - INFO      - run_epinions.py : 117 line - training time is 13.843904574712118
+2024-01-18 02:23:26 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0719393708489158, MAE is 0.8455761779438365, att_loss is 0.47742842544208874
+2024-01-18 02:23:26 - root - INFO      - run_epinions.py : 270 line - val time is 2.633286237716675
+2024-01-18 02:23:41 - root - INFO      - run_epinions.py : 112 line - The 10-th epoch: 
+
+2024-01-18 02:23:41 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0243781438240638, MAE is 0.8056418620623075, att_loss is 0.47707285101597124
+2024-01-18 02:23:41 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.43025875320801366, AUC is 0.5385507180191843 and Average Precision is 0.15983277127917497
+2024-01-18 02:23:41 - root - INFO      - run_epinions.py : 117 line - training time is 13.893189120292664
+2024-01-18 02:23:43 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0540969371795654, MAE is 0.8315938927910544, att_loss is 0.4764293838631023
+2024-01-18 02:23:43 - root - INFO      - run_epinions.py : 270 line - val time is 2.610574960708618
+2024-01-18 02:23:57 - root - INFO      - run_epinions.py : 112 line - The 11-th epoch: 
+
+2024-01-18 02:23:57 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0097388625144958, MAE is 0.7862914571395287, att_loss is 0.47606154817801255
+2024-01-18 02:23:57 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.42200188224132246, AUC is 0.5318997461472181 and Average Precision is 0.15802718378290434
+2024-01-18 02:23:57 - root - INFO      - run_epinions.py : 117 line - training time is 13.921273469924927
+2024-01-18 02:24:00 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0429974469271572, MAE is 0.8118467276746576, att_loss is 0.4754229350523515
+2024-01-18 02:24:00 - root - INFO      - run_epinions.py : 270 line - val time is 2.5866878032684326
+2024-01-18 02:24:14 - root - INFO      - run_epinions.py : 112 line - The 12-th epoch: 
+
+2024-01-18 02:24:14 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0016313195228577, MAE is 0.7736536952165457, att_loss is 0.47510841259589565
+2024-01-18 02:24:14 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.41436059658343977, AUC is 0.5260660186513262 and Average Precision is 0.15648656426758728
+2024-01-18 02:24:14 - root - INFO      - run_epinions.py : 117 line - training time is 13.949942469596863
+2024-01-18 02:24:17 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0383739037947222, MAE is 0.8069041262973439, att_loss is 0.47442549196156586
+2024-01-18 02:24:17 - root - INFO      - run_epinions.py : 270 line - val time is 2.5553221702575684
+2024-01-18 02:24:31 - root - INFO      - run_epinions.py : 112 line - The 13-th epoch: 
+
+2024-01-18 02:24:31 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9972132169283353, MAE is 0.7683173784842858, att_loss is 0.4740303617257338
+2024-01-18 02:24:31 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4074803132277269, AUC is 0.5209596834180967 and Average Precision is 0.15507217908491133
+2024-01-18 02:24:31 - root - INFO      - run_epinions.py : 117 line - training time is 13.978692641625038
+2024-01-18 02:24:34 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0362733710895886, MAE is 0.8014788952740756, att_loss is 0.473433871160854
+2024-01-18 02:24:34 - root - INFO      - run_epinions.py : 270 line - val time is 2.578061819076538
+2024-01-18 02:24:48 - root - INFO      - run_epinions.py : 112 line - The 14-th epoch: 
+
+2024-01-18 02:24:48 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9952365297537583, MAE is 0.7641803805644696, att_loss is 0.473014609171794
+2024-01-18 02:24:48 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4014522020633404, AUC is 0.5134601483239964 and Average Precision is 0.15318393546235598
+2024-01-18 02:24:48 - root - INFO      - run_epinions.py : 117 line - training time is 14.01483861037663
+2024-01-18 02:24:51 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0354573076421565, MAE is 0.7993385358290239, att_loss is 0.47244093093005096
+2024-01-18 02:24:51 - root - INFO      - run_epinions.py : 270 line - val time is 2.6448323726654053
+2024-01-18 02:25:05 - root - INFO      - run_epinions.py : 112 line - The 15-th epoch: 
+
+2024-01-18 02:25:05 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9944528478842515, MAE is 0.7612768090688266, att_loss is 0.4721117615699768
+2024-01-18 02:25:05 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.396306581222094, AUC is 0.5101185634084667 and Average Precision is 0.15254325209325495
+2024-01-18 02:25:05 - root - INFO      - run_epinions.py : 117 line - training time is 14.032596000035603
+2024-01-18 02:25:08 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0340624939311633, MAE is 0.7964353886517611, att_loss is 0.47151411121541803
+2024-01-18 02:25:08 - root - INFO      - run_epinions.py : 270 line - val time is 2.5396599769592285
+2024-01-18 02:25:22 - root - INFO      - run_epinions.py : 112 line - The 16-th epoch: 
+
+2024-01-18 02:25:22 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9940282885844891, MAE is 0.759714241211231, att_loss is 0.4711213386975802
+2024-01-18 02:25:22 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3920174768337837, AUC is 0.5046811629931423 and Average Precision is 0.15125107457038464
+2024-01-18 02:25:22 - root - INFO      - run_epinions.py : 117 line - training time is 14.04179061949253
+2024-01-18 02:25:25 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0326993573795666, MAE is 0.7936458804390647, att_loss is 0.47053889523852954
+2024-01-18 02:25:25 - root - INFO      - run_epinions.py : 270 line - val time is 2.559767961502075
+2024-01-18 02:25:41 - root - INFO      - run_epinions.py : 112 line - The 17-th epoch: 
+
+2024-01-18 02:25:41 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9923038207567655, MAE is 0.7566903737875131, att_loss is 0.47016488588773286
+2024-01-18 02:25:41 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.38851531193806577, AUC is 0.49849419564205577 and Average Precision is 0.14989074034727698
+2024-01-18 02:25:41 - root - INFO      - run_epinions.py : 117 line - training time is 14.207112242193784
+2024-01-18 02:25:44 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0328452695499768, MAE is 0.7931848764419556, att_loss is 0.4695622948083011
+2024-01-18 02:25:44 - root - INFO      - run_epinions.py : 270 line - val time is 2.5696232318878174
+2024-01-18 02:26:03 - root - INFO      - run_epinions.py : 112 line - The 18-th epoch: 
+
+2024-01-18 02:26:03 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9925578695077163, MAE is 0.7567489926631634, att_loss is 0.46919642044947696
+2024-01-18 02:26:03 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3857040061400487, AUC is 0.49390676811487577 and Average Precision is 0.1491319245448859
+2024-01-18 02:26:03 - root - INFO      - run_epinions.py : 117 line - training time is 14.473467972543505
+2024-01-18 02:26:06 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0307736830277876, MAE is 0.7901001301678744, att_loss is 0.4686046296899969
+2024-01-18 02:26:06 - root - INFO      - run_epinions.py : 270 line - val time is 2.672302484512329
+2024-01-18 02:26:24 - root - INFO      - run_epinions.py : 112 line - The 19-th epoch: 
+
+2024-01-18 02:26:24 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9927946329116821, MAE is 0.7544591931196359, att_loss is 0.46824447696025556
+2024-01-18 02:26:24 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.383477114714109, AUC is 0.49159372314590516 and Average Precision is 0.14886881234139412
+2024-01-18 02:26:24 - root - INFO      - run_epinions.py : 117 line - training time is 14.689606377952977
+2024-01-18 02:26:27 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0313984480771152, MAE is 0.7900176698511298, att_loss is 0.4676348567008972
+2024-01-18 02:26:27 - root - INFO      - run_epinions.py : 270 line - val time is 2.5109658241271973
+2024-01-18 02:26:45 - root - INFO      - run_epinions.py : 112 line - The 20-th epoch: 
+
+2024-01-18 02:26:45 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9901025891304016, MAE is 0.7542670369148254, att_loss is 0.46727144488921535
+2024-01-18 02:26:45 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.38173026075729954, AUC is 0.48600022581691926 and Average Precision is 0.14805504592901972
+2024-01-18 02:26:45 - root - INFO      - run_epinions.py : 117 line - training time is 14.891634118556976
+2024-01-18 02:26:48 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0311435894532637, MAE is 0.7895887494087219, att_loss is 0.46666803685101593
+2024-01-18 02:26:48 - root - INFO      - run_epinions.py : 270 line - val time is 2.5282955169677734
+2024-01-18 02:27:07 - root - INFO      - run_epinions.py : 112 line - The 21-th epoch: 
+
+2024-01-18 02:27:07 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.991390755543342, MAE is 0.7533181630648099, att_loss is 0.4663710089830252
+2024-01-18 02:27:07 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.380368899840575, AUC is 0.48446821273257484 and Average Precision is 0.14826603076159742
+2024-01-18 02:27:07 - root - INFO      - run_epinions.py : 117 line - training time is 15.079703296933856
+2024-01-18 02:27:09 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.031869043003429, MAE is 0.7894775379787792, att_loss is 0.4657656252384186
+2024-01-18 02:27:09 - root - INFO      - run_epinions.py : 270 line - val time is 2.513918876647949
+2024-01-18 02:27:09 - root - INFO      - run_epinions.py : 122 line - Early stopping
+2024-01-18 08:03:35 - root - INFO      - run_epinions.py : 212 line - For Rating Prediction: RMSE is 1.0314993460973103, MAE is 0.789596438407898, att_loss is 0.4657595455646515
+2024-01-18 08:03:35 - root - INFO      - run_epinions.py : 214 line - test time is 1.8020904064178467
+2024-01-18 08:30:42 - root - INFO      - run_epinions.py : 112 line - The 1-th epoch: 
+
+2024-01-18 08:30:42 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 4.049546241760254, MAE is 3.8559919870816746, att_loss is 0.4924855805360354
+2024-01-18 08:30:42 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4922255598581754, AUC is 0.5543413386322704 and Average Precision is 0.17446159907428332
+2024-01-18 08:30:42 - root - INFO      - run_epinions.py : 117 line - training time is 27.33867359161377
+2024-01-18 08:30:46 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 4.029758019880815, MAE is 3.835119702599265, att_loss is 0.49241863055662677
+2024-01-18 08:30:46 - root - INFO      - run_epinions.py : 270 line - val time is 4.064757585525513
+2024-01-18 08:31:12 - root - INFO      - run_epinions.py : 112 line - The 2-th epoch: 
+
+2024-01-18 08:31:12 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 4.011870695994451, MAE is 3.8163408866295447, att_loss is 0.4922036276413844
+2024-01-18 08:31:12 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4906519169990833, AUC is 0.5749076527766458 and Average Precision is 0.18162852253732517
+2024-01-18 08:31:12 - root - INFO      - run_epinions.py : 117 line - training time is 26.897629857063293
+2024-01-18 08:31:16 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.9927515983581543, MAE is 3.7956066998568447, att_loss is 0.4921420839699832
+2024-01-18 08:31:16 - root - INFO      - run_epinions.py : 270 line - val time is 4.080257892608643
+2024-01-18 08:31:42 - root - INFO      - run_epinions.py : 112 line - The 3-th epoch: 
+
+2024-01-18 08:31:42 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 3.975850453743568, MAE is 3.778157802728506, att_loss is 0.4919912196122683
+2024-01-18 08:31:42 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4891124184315021, AUC is 0.5912525451421274 and Average Precision is 0.18744851582334493
+2024-01-18 08:31:42 - root - INFO      - run_epinions.py : 117 line - training time is 26.673963626225788
+2024-01-18 08:31:46 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.9569781693545254, MAE is 3.7584104537963867, att_loss is 0.4918919422409751
+2024-01-18 08:31:46 - root - INFO      - run_epinions.py : 270 line - val time is 3.836778402328491
+2024-01-18 08:32:12 - root - INFO      - run_epinions.py : 112 line - The 4-th epoch: 
+
+2024-01-18 08:32:12 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 3.9383989297426663, MAE is 3.738604967410748, att_loss is 0.491773946927144
+2024-01-18 08:32:12 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4875993476464198, AUC is 0.5935145721688025 and Average Precision is 0.18692444957726873
+2024-01-18 08:32:12 - root - INFO      - run_epinions.py : 117 line - training time is 26.505053162574768
+2024-01-18 08:32:16 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.916569406336004, MAE is 3.7159540869972925, att_loss is 0.491677235473286
+2024-01-18 08:32:16 - root - INFO      - run_epinions.py : 270 line - val time is 3.743652582168579
+2024-01-18 08:32:44 - root - INFO      - run_epinions.py : 112 line - The 5-th epoch: 
+
+2024-01-18 08:32:44 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 3.895683233554547, MAE is 3.693221385662372, att_loss is 0.49156975746154785
+2024-01-18 08:32:44 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.48610299137922436, AUC is 0.590703331153917 and Average Precision is 0.18416329143414825
+2024-01-18 08:32:44 - root - INFO      - run_epinions.py : 117 line - training time is 26.89806981086731
+2024-01-18 08:32:49 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.873083006251942, MAE is 3.6700231595472856, att_loss is 0.4914591637524692
+2024-01-18 08:32:49 - root - INFO      - run_epinions.py : 270 line - val time is 4.102795362472534
+2024-01-18 08:33:21 - root - INFO      - run_epinions.py : 112 line - The 6-th epoch: 
+
+2024-01-18 08:33:21 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 3.850817313561073, MAE is 3.6463440564962535, att_loss is 0.49134544225839466
+2024-01-18 08:33:21 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4846198558807373, AUC is 0.5868915052013266 and Average Precision is 0.18130355325105485
+2024-01-18 08:33:21 - root - INFO      - run_epinions.py : 117 line - training time is 27.783722400665283
+2024-01-18 08:33:25 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.8237443187020044, MAE is 3.61730636249889, att_loss is 0.4912585805762898
+2024-01-18 08:33:25 - root - INFO      - run_epinions.py : 270 line - val time is 3.768551826477051
+2024-01-18 08:33:57 - root - INFO      - run_epinions.py : 112 line - The 7-th epoch: 
+
+2024-01-18 08:33:57 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 3.797353671147273, MAE is 3.5895729064941406, att_loss is 0.4911355192844684
+2024-01-18 08:33:57 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4831442970495958, AUC is 0.5829365568663484 and Average Precision is 0.17877135145972847
+2024-01-18 08:33:57 - root - INFO      - run_epinions.py : 117 line - training time is 28.399001802716935
+2024-01-18 08:34:01 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.7679434472864326, MAE is 3.5586434711109507, att_loss is 0.49103002927520056
+2024-01-18 08:34:01 - root - INFO      - run_epinions.py : 270 line - val time is 3.8459324836730957
+2024-01-18 08:34:28 - root - INFO      - run_epinions.py : 112 line - The 8-th epoch: 
+
+2024-01-18 08:34:28 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 3.7371913469754734, MAE is 3.526254177093506, att_loss is 0.49091051862790036
+2024-01-18 08:34:28 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.48167462532336897, AUC is 0.5756616948440221 and Average Precision is 0.17530626408138078
+2024-01-18 08:34:28 - root - INFO      - run_epinions.py : 117 line - training time is 28.290043532848358
+2024-01-18 08:34:32 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.7002919153733687, MAE is 3.487211964347146, att_loss is 0.49080809679898346
+2024-01-18 08:34:32 - root - INFO      - run_epinions.py : 270 line - val time is 3.7920708656311035
+2024-01-18 08:35:05 - root - INFO      - run_epinions.py : 112 line - The 9-th epoch: 
+
+2024-01-18 08:35:05 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 3.6636554461259108, MAE is 3.4484113179720364, att_loss is 0.49068064185289234
+2024-01-18 08:35:05 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.480207418019955, AUC is 0.5732507143733234 and Average Precision is 0.17385160167190442
+2024-01-18 08:35:05 - root - INFO      - run_epinions.py : 117 line - training time is 28.77495797475179
+2024-01-18 08:35:08 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.617726109244607, MAE is 3.3988299586556177, att_loss is 0.49060340361161664
+2024-01-18 08:35:08 - root - INFO      - run_epinions.py : 270 line - val time is 3.6909022331237793
+2024-01-18 08:35:36 - root - INFO      - run_epinions.py : 112 line - The 10-th epoch: 
+
+2024-01-18 08:35:36 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 3.571003565421471, MAE is 3.3494003002460184, att_loss is 0.49047106962937576
+2024-01-18 08:35:36 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.47873868621312654, AUC is 0.5707269151478405 and Average Precision is 0.17211761465372427
+2024-01-18 08:35:36 - root - INFO      - run_epinions.py : 117 line - training time is 28.627989172935486
+2024-01-18 08:35:39 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.515403140674938, MAE is 3.2895950187336314, att_loss is 0.49038400975140656
+2024-01-18 08:35:39 - root - INFO      - run_epinions.py : 270 line - val time is 3.8901755809783936
+2024-01-18 08:36:06 - root - INFO      - run_epinions.py : 112 line - The 11-th epoch: 
+
+2024-01-18 08:36:06 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 3.45900663962731, MAE is 3.2296454906463623, att_loss is 0.4902486778222598
+2024-01-18 08:36:06 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4772704174885383, AUC is 0.5658891924932979 and Average Precision is 0.1699443677206775
+2024-01-18 08:36:06 - root - INFO      - run_epinions.py : 117 line - training time is 28.40838115865534
+2024-01-18 08:36:10 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.38982553915544, MAE is 3.1543217572298916, att_loss is 0.49017015912316064
+2024-01-18 08:36:10 - root - INFO      - run_epinions.py : 270 line - val time is 3.8679909706115723
+2024-01-18 08:36:38 - root - INFO      - run_epinions.py : 112 line - The 12-th epoch: 
+
+2024-01-18 08:36:38 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 3.315844865945669, MAE is 3.074949576304509, att_loss is 0.4900460426624005
+2024-01-18 08:36:38 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.47579811628048235, AUC is 0.5599905129308447 and Average Precision is 0.16772023789757134
+2024-01-18 08:36:38 - root - INFO      - run_epinions.py : 117 line - training time is 28.40192170937856
+2024-01-18 08:36:42 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.2309789657592773, MAE is 2.9835043386979536, att_loss is 0.4899518218907443
+2024-01-18 08:36:42 - root - INFO      - run_epinions.py : 270 line - val time is 3.8415114879608154
+2024-01-18 08:37:14 - root - INFO      - run_epinions.py : 112 line - The 13-th epoch: 
+
+2024-01-18 08:37:14 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 3.1396461450136623, MAE is 2.890269426199106, att_loss is 0.48984028972112215
+2024-01-18 08:37:14 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.47432056069374084, AUC is 0.5565544824756483 and Average Precision is 0.16616058671072137
+2024-01-18 08:37:14 - root - INFO      - run_epinions.py : 117 line - training time is 28.705431589713463
+2024-01-18 08:37:18 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 3.0366437435150146, MAE is 2.7876805608922783, att_loss is 0.4897336038676175
+2024-01-18 08:37:18 - root - INFO      - run_epinions.py : 270 line - val time is 3.925999641418457
+2024-01-18 08:37:44 - root - INFO      - run_epinions.py : 112 line - The 14-th epoch: 
+
+2024-01-18 08:37:44 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 2.9270766514998217, MAE is 2.681206758205707, att_loss is 0.4896197708753439
+2024-01-18 08:37:44 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4728380029018109, AUC is 0.5538429150328622 and Average Precision is 0.16536503397731447
+2024-01-18 08:37:44 - root - INFO      - run_epinions.py : 117 line - training time is 28.51239832809993
+2024-01-18 08:37:48 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 2.8042066530747847, MAE is 2.5617394230582495, att_loss is 0.48952242732048035
+2024-01-18 08:37:48 - root - INFO      - run_epinions.py : 270 line - val time is 3.7570695877075195
+2024-01-18 08:38:18 - root - INFO      - run_epinions.py : 112 line - The 15-th epoch: 
+
+2024-01-18 08:38:18 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 2.6735448837280273, MAE is 2.433541279572707, att_loss is 0.4894028397706839
+2024-01-18 08:38:18 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.47134666030223554, AUC is 0.5498856509306447 and Average Precision is 0.16376290022813414
+2024-01-18 08:38:18 - root - INFO      - run_epinions.py : 117 line - training time is 28.62031997044881
+2024-01-18 08:38:22 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 2.535368247465654, MAE is 2.2973032647913154, att_loss is 0.48930067094889557
+2024-01-18 08:38:22 - root - INFO      - run_epinions.py : 270 line - val time is 3.957522392272949
+2024-01-18 08:38:55 - root - INFO      - run_epinions.py : 112 line - The 16-th epoch: 
+
+2024-01-18 08:38:55 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 2.3881648687215953, MAE is 2.1553387825305643, att_loss is 0.4892025291919708
+2024-01-18 08:38:55 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.46984832332684445, AUC is 0.5446560844026445 and Average Precision is 0.16209785579125371
+2024-01-18 08:38:55 - root - INFO      - run_epinions.py : 117 line - training time is 28.90948909521103
+2024-01-18 08:38:59 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 2.240490956739946, MAE is 2.0149937976490366, att_loss is 0.4891167364337228
+2024-01-18 08:38:59 - root - INFO      - run_epinions.py : 270 line - val time is 3.692620038986206
+2024-01-18 08:39:32 - root - INFO      - run_epinions.py : 112 line - The 17-th epoch: 
+
+2024-01-18 08:39:32 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 2.0886555910110474, MAE is 1.8718168827203603, att_loss is 0.48897422964756304
+2024-01-18 08:39:32 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.46833943174435544, AUC is 0.5444088991110877 and Average Precision is 0.16185236119757226
+2024-01-18 08:39:32 - root - INFO      - run_epinions.py : 117 line - training time is 29.165784204707425
+2024-01-18 08:39:36 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.9497239698063245, MAE is 1.7399606054479426, att_loss is 0.4888711084019054
+2024-01-18 08:39:36 - root - INFO      - run_epinions.py : 270 line - val time is 3.7761752605438232
+2024-01-18 08:40:09 - root - INFO      - run_epinions.py : 112 line - The 18-th epoch: 
+
+2024-01-18 08:40:09 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.8058832333638117, MAE is 1.6033756457842314, att_loss is 0.4887613035165347
+2024-01-18 08:40:09 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4668212280823634, AUC is 0.5414627922864471 and Average Precision is 0.16081920752805481
+2024-01-18 08:40:09 - root - INFO      - run_epinions.py : 117 line - training time is 29.375284141964382
+2024-01-18 08:40:13 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.69548208063299, MAE is 1.4965158700942993, att_loss is 0.488679593259638
+2024-01-18 08:40:13 - root - INFO      - run_epinions.py : 270 line - val time is 3.741330862045288
+2024-01-18 08:40:43 - root - INFO      - run_epinions.py : 112 line - The 19-th epoch: 
+
+2024-01-18 08:40:43 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.5780332546967726, MAE is 1.383456486922044, att_loss is 0.4885672972752498
+2024-01-18 08:40:43 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.46529203194838303, AUC is 0.5383038660660008 and Average Precision is 0.1597594714800192
+2024-01-18 08:40:43 - root - INFO      - run_epinions.py : 117 line - training time is 29.419415084939253
+2024-01-18 08:40:47 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.5099547559564763, MAE is 1.3104430870576338, att_loss is 0.4884526350281455
+2024-01-18 08:40:47 - root - INFO      - run_epinions.py : 270 line - val time is 3.7711899280548096
+2024-01-18 08:41:13 - root - INFO      - run_epinions.py : 112 line - The 20-th epoch: 
+
+2024-01-18 08:41:13 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.4219954747420092, MAE is 1.2233298558455248, att_loss is 0.4883272464458759
+2024-01-18 08:41:13 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.46375192128694975, AUC is 0.536705195042956 and Average Precision is 0.15932370400230278
+2024-01-18 08:41:13 - root - INFO      - run_epinions.py : 117 line - training time is 29.247763097286224
+2024-01-18 08:41:16 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.3981429013338955, MAE is 1.189175920052962, att_loss is 0.48824829946864734
+2024-01-18 08:41:16 - root - INFO      - run_epinions.py : 270 line - val time is 3.770634412765503
+2024-01-18 08:41:45 - root - INFO      - run_epinions.py : 112 line - The 21-th epoch: 
+
+2024-01-18 08:41:45 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.3296415622417743, MAE is 1.1220353841781616, att_loss is 0.4881262962634747
+2024-01-18 08:41:45 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.46220027941923875, AUC is 0.5366553562218305 and Average Precision is 0.15927138357638293
+2024-01-18 08:41:45 - root - INFO      - run_epinions.py : 117 line - training time is 29.203978981290543
+2024-01-18 08:41:48 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.3318268927660855, MAE is 1.1150047453967007, att_loss is 0.48801555687730963
+2024-01-18 08:41:48 - root - INFO      - run_epinions.py : 270 line - val time is 3.744102954864502
+2024-01-18 08:42:22 - root - INFO      - run_epinions.py : 112 line - The 22-th epoch: 
+
+2024-01-18 08:42:22 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.2753951366131122, MAE is 1.0623162067853487, att_loss is 0.48792988978899443
+2024-01-18 08:42:22 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4606379408102769, AUC is 0.531047383945155 and Average Precision is 0.1576995366295585
+2024-01-18 08:42:22 - root - INFO      - run_epinions.py : 117 line - training time is 29.389930974353444
+2024-01-18 08:42:25 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.291239164092324, MAE is 1.0715725855393843, att_loss is 0.4878005249933763
+2024-01-18 08:42:25 - root - INFO      - run_epinions.py : 270 line - val time is 3.6720376014709473
+2024-01-18 08:42:59 - root - INFO      - run_epinions.py : 112 line - The 23-th epoch: 
+
+2024-01-18 08:42:59 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.2370987580372736, MAE is 1.0220779272226186, att_loss is 0.4876886078944573
+2024-01-18 08:42:59 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.45906375921689546, AUC is 0.5309524924308161 and Average Precision is 0.15758815137066054
+2024-01-18 08:42:59 - root - INFO      - run_epinions.py : 117 line - training time is 29.562636831532355
+2024-01-18 08:43:03 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.2604245380921797, MAE is 1.0406143556941638, att_loss is 0.4875949133526195
+2024-01-18 08:43:03 - root - INFO      - run_epinions.py : 270 line - val time is 3.737928628921509
+2024-01-18 08:43:29 - root - INFO      - run_epinions.py : 112 line - The 24-th epoch: 
+
+2024-01-18 08:43:29 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.2077424342815692, MAE is 0.994102445932535, att_loss is 0.48749862496669477
+2024-01-18 08:43:29 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4574786378787114, AUC is 0.528040810200864 and Average Precision is 0.15675693409319585
+2024-01-18 08:43:29 - root - INFO      - run_epinions.py : 117 line - training time is 29.44601978858312
+2024-01-18 08:43:33 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.236479640007019, MAE is 1.0178740566427058, att_loss is 0.4873885187235745
+2024-01-18 08:43:33 - root - INFO      - run_epinions.py : 270 line - val time is 3.7008092403411865
+2024-01-18 08:43:58 - root - INFO      - run_epinions.py : 112 line - The 25-th epoch: 
+
+2024-01-18 08:43:58 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.1829199699255137, MAE is 0.9698662528624902, att_loss is 0.4872790299929105
+2024-01-18 08:43:58 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4558826249379378, AUC is 0.5270117674123924 and Average Precision is 0.15651701307330532
+2024-01-18 08:43:58 - root - INFO      - run_epinions.py : 117 line - training time is 29.28242956161499
+2024-01-18 08:44:02 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.2149773727763782, MAE is 0.997325826774944, att_loss is 0.48716951500285754
+2024-01-18 08:44:02 - root - INFO      - run_epinions.py : 270 line - val time is 3.760530471801758
+2024-01-18 08:44:28 - root - INFO      - run_epinions.py : 112 line - The 26-th epoch: 
+
+2024-01-18 08:44:28 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.1609540444154005, MAE is 0.949245925133045, att_loss is 0.48706578062130856
+2024-01-18 08:44:28 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.45427688497763413, AUC is 0.5251578592762848 and Average Precision is 0.15600834793519436
+2024-01-18 08:44:28 - root - INFO      - run_epinions.py : 117 line - training time is 29.160003497050358
+2024-01-18 08:44:32 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.196369474584406, MAE is 0.9787422906268727, att_loss is 0.4869500723752109
+2024-01-18 08:44:32 - root - INFO      - run_epinions.py : 270 line - val time is 3.730705976486206
+2024-01-18 08:44:57 - root - INFO      - run_epinions.py : 112 line - The 27-th epoch: 
+
+2024-01-18 08:44:57 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.1408105079944317, MAE is 0.9291322735639719, att_loss is 0.48685534183795637
+2024-01-18 08:44:57 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4526621194986197, AUC is 0.5220238564378735 and Average Precision is 0.15527388550537535
+2024-01-18 08:44:57 - root - INFO      - run_epinions.py : 117 line - training time is 29.01516510822155
+2024-01-18 08:45:01 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.1790093291889538, MAE is 0.9617078521034934, att_loss is 0.48674333095550537
+2024-01-18 08:45:01 - root - INFO      - run_epinions.py : 270 line - val time is 3.905707836151123
+2024-01-18 08:45:32 - root - INFO      - run_epinions.py : 112 line - The 28-th epoch: 
+
+2024-01-18 08:45:32 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.124738097190857, MAE is 0.9129502864984366, att_loss is 0.48665761718383205
+2024-01-18 08:45:32 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.45103846146510196, AUC is 0.5224339440321015 and Average Precision is 0.1552535725021258
+2024-01-18 08:45:32 - root - INFO      - run_epinions.py : 117 line - training time is 29.073986070496694
+2024-01-18 08:45:36 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.1621737480163574, MAE is 0.945212488824671, att_loss is 0.48653873801231384
+2024-01-18 08:45:36 - root - INFO      - run_epinions.py : 270 line - val time is 3.830923557281494
+2024-01-18 08:46:08 - root - INFO      - run_epinions.py : 112 line - The 29-th epoch: 
+
+2024-01-18 08:46:08 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.1092044573563795, MAE is 0.8978280837719257, att_loss is 0.48642810032917905
+2024-01-18 08:46:08 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4494077723759871, AUC is 0.521178580781826 and Average Precision is 0.15502631246550563
+2024-01-18 08:46:08 - root - INFO      - run_epinions.py : 117 line - training time is 29.20066809654236
+2024-01-18 08:46:12 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.1505878080021252, MAE is 0.9332730390808799, att_loss is 0.48633956096389075
+2024-01-18 08:46:12 - root - INFO      - run_epinions.py : 270 line - val time is 3.7885358333587646
+2024-01-18 08:46:46 - root - INFO      - run_epinions.py : 112 line - The 30-th epoch: 
+
+2024-01-18 08:46:46 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.096178100659297, MAE is 0.884346393438486, att_loss is 0.4862309396266937
+2024-01-18 08:46:46 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.44777042132157546, AUC is 0.5204150997018193 and Average Precision is 0.15482736577856462
+2024-01-18 08:46:46 - root - INFO      - run_epinions.py : 117 line - training time is 29.34016075929006
+2024-01-18 08:46:49 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.1374346668070012, MAE is 0.9204789020798423, att_loss is 0.4860923371531747
+2024-01-18 08:46:49 - root - INFO      - run_epinions.py : 270 line - val time is 3.6923296451568604
+2024-01-18 08:47:22 - root - INFO      - run_epinions.py : 112 line - The 31-th epoch: 
+
+2024-01-18 08:47:22 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.082781406549307, MAE is 0.8709803177760198, att_loss is 0.48604082144223726
+2024-01-18 08:47:22 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.44612812995910645, AUC is 0.5186541072391287 and Average Precision is 0.15435302855434058
+2024-01-18 08:47:22 - root - INFO      - run_epinions.py : 117 line - training time is 29.45599272943312
+2024-01-18 08:47:26 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.1260151971470227, MAE is 0.9087786132639105, att_loss is 0.4859125858003443
+2024-01-18 08:47:26 - root - INFO      - run_epinions.py : 270 line - val time is 3.7665164470672607
+2024-01-18 08:47:59 - root - INFO      - run_epinions.py : 112 line - The 32-th epoch: 
+
+2024-01-18 08:47:59 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0712356383983905, MAE is 0.8591753977995652, att_loss is 0.4857846750662877
+2024-01-18 08:47:59 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4444819665872134, AUC is 0.5199891327148856 and Average Precision is 0.1547843633050392
+2024-01-18 08:47:59 - root - INFO      - run_epinions.py : 117 line - training time is 29.57832258939743
+2024-01-18 08:48:03 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.1159270243211226, MAE is 0.898586246100339, att_loss is 0.4857090305198323
+2024-01-18 08:48:03 - root - INFO      - run_epinions.py : 270 line - val time is 3.9027974605560303
+2024-01-18 08:48:37 - root - INFO      - run_epinions.py : 112 line - The 33-th epoch: 
+
+2024-01-18 08:48:37 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0628397189653838, MAE is 0.8495394266568698, att_loss is 0.48562915508563703
+2024-01-18 08:48:37 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.44283406092570377, AUC is 0.5181920428006136 and Average Precision is 0.1542438530989785
+2024-01-18 08:48:37 - root - INFO      - run_epinions.py : 117 line - training time is 29.700265205267705
+2024-01-18 08:48:41 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.105821425264532, MAE is 0.8878211975097656, att_loss is 0.4854680326851932
+2024-01-18 08:48:41 - root - INFO      - run_epinions.py : 270 line - val time is 3.75052809715271
+2024-01-18 08:49:14 - root - INFO      - run_epinions.py : 112 line - The 34-th epoch: 
+
+2024-01-18 08:49:14 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.05371277148907, MAE is 0.8396075643025912, att_loss is 0.48540821212988633
+2024-01-18 08:49:14 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4411855202454787, AUC is 0.5141120107602716 and Average Precision is 0.15312139380816314
+2024-01-18 08:49:14 - root - INFO      - run_epinions.py : 117 line - training time is 29.809305892271155
+2024-01-18 08:49:18 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.099034775387157, MAE is 0.8801565874706615, att_loss is 0.48529972813346167
+2024-01-18 08:49:18 - root - INFO      - run_epinions.py : 270 line - val time is 3.839571237564087
+2024-01-18 08:49:51 - root - INFO      - run_epinions.py : 112 line - The 35-th epoch: 
+
+2024-01-18 08:49:51 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0445050459641676, MAE is 0.8307973192288325, att_loss is 0.48515906700721156
+2024-01-18 08:49:51 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4395374334775485, AUC is 0.5152850035093578 and Average Precision is 0.15342433615508405
+2024-01-18 08:49:51 - root - INFO      - run_epinions.py : 117 line - training time is 29.905633360998973
+2024-01-18 08:49:55 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.092379862611944, MAE is 0.8729440244761381, att_loss is 0.48506578532132233
+2024-01-18 08:49:55 - root - INFO      - run_epinions.py : 270 line - val time is 3.994344472885132
+2024-01-18 08:50:29 - root - INFO      - run_epinions.py : 112 line - The 36-th epoch: 
+
+2024-01-18 08:50:29 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0383176711889415, MAE is 0.8238053046740018, att_loss is 0.4849977997633127
+2024-01-18 08:50:29 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.43789252638816833, AUC is 0.5083784921183662 and Average Precision is 0.15174666935875492
+2024-01-18 08:50:29 - root - INFO      - run_epinions.py : 117 line - training time is 30.0064171022839
+2024-01-18 08:50:32 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0845628326589412, MAE is 0.8649045391516252, att_loss is 0.48484175313602795
+2024-01-18 08:50:32 - root - INFO      - run_epinions.py : 270 line - val time is 3.790951728820801
+2024-01-18 08:51:06 - root - INFO      - run_epinions.py : 112 line - The 37-th epoch: 
+
+2024-01-18 08:51:06 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.032033975307758, MAE is 0.8163259900533236, att_loss is 0.48477495404390186
+2024-01-18 08:51:06 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4362509181866279, AUC is 0.5113176188715938 and Average Precision is 0.15243728096833895
+2024-01-18 08:51:06 - root - INFO      - run_epinions.py : 117 line - training time is 30.092552700558223
+2024-01-18 08:51:09 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.078713590448553, MAE is 0.8577473271976818, att_loss is 0.4846257133917375
+2024-01-18 08:51:09 - root - INFO      - run_epinions.py : 270 line - val time is 3.7257211208343506
+2024-01-18 08:51:43 - root - INFO      - run_epinions.py : 112 line - The 38-th epoch: 
+
+2024-01-18 08:51:43 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0246396614955022, MAE is 0.8086217687680171, att_loss is 0.4845417302388411
+2024-01-18 08:51:43 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4346157702115866, AUC is 0.5126700169965579 and Average Precision is 0.15287908362251432
+2024-01-18 08:51:43 - root - INFO      - run_epinions.py : 117 line - training time is 30.187394217440957
+2024-01-18 08:51:47 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0739160017533735, MAE is 0.8526096777482466, att_loss is 0.48443577506325464
+2024-01-18 08:51:47 - root - INFO      - run_epinions.py : 270 line - val time is 3.7795960903167725
+2024-01-18 08:52:21 - root - INFO      - run_epinions.py : 112 line - The 39-th epoch: 
+
+2024-01-18 08:52:21 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0209011389659002, MAE is 0.8038353323936462, att_loss is 0.4843639937730936
+2024-01-18 08:52:21 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.43298844878490156, AUC is 0.5099355607065272 and Average Precision is 0.1521365507069805
+2024-01-18 08:52:21 - root - INFO      - run_epinions.py : 117 line - training time is 30.28634305489369
+2024-01-18 08:52:25 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.070476304401051, MAE is 0.8479466546665538, att_loss is 0.484239632433111
+2024-01-18 08:52:25 - root - INFO      - run_epinions.py : 270 line - val time is 3.6823244094848633
+2024-01-18 08:52:58 - root - INFO      - run_epinions.py : 112 line - The 40-th epoch: 
+
+2024-01-18 08:52:58 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0168883433708777, MAE is 0.7987647973574125, att_loss is 0.48414958669589114
+2024-01-18 08:52:58 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.43137033856832063, AUC is 0.5065988057113276 and Average Precision is 0.15129127173532292
+2024-01-18 08:52:58 - root - INFO      - run_epinions.py : 117 line - training time is 30.37151903510094
+2024-01-18 08:53:02 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0645977908914739, MAE is 0.8419278860092163, att_loss is 0.4840127717364918
+2024-01-18 08:53:02 - root - INFO      - run_epinions.py : 270 line - val time is 4.115875244140625
+2024-01-18 08:53:37 - root - INFO      - run_epinions.py : 112 line - The 41-th epoch: 
+
+2024-01-18 08:53:37 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0123806870900667, MAE is 0.7934654171650226, att_loss is 0.4839317683990185
+2024-01-18 08:53:37 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.42976319789886475, AUC is 0.5094546214733332 and Average Precision is 0.15202922966811802
+2024-01-18 08:53:37 - root - INFO      - run_epinions.py : 117 line - training time is 30.46602987661594
+2024-01-18 08:53:40 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0625067732550881, MAE is 0.8391758366064592, att_loss is 0.4838452257893302
+2024-01-18 08:53:40 - root - INFO      - run_epinions.py : 270 line - val time is 3.7401769161224365
+2024-01-18 08:54:14 - root - INFO      - run_epinions.py : 112 line - The 42-th epoch: 
+
+2024-01-18 08:54:14 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0109006808354304, MAE is 0.7912223109832177, att_loss is 0.4837361184450296
+2024-01-18 08:54:14 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4281689845598661, AUC is 0.5075067522962324 and Average Precision is 0.1516730122166229
+2024-01-18 08:54:14 - root - INFO      - run_epinions.py : 117 line - training time is 30.543968388012477
+2024-01-18 08:54:18 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0581400286067615, MAE is 0.834080159664154, att_loss is 0.4835736859928478
+2024-01-18 08:54:18 - root - INFO      - run_epinions.py : 270 line - val time is 3.7987232208251953
+2024-01-18 08:54:52 - root - INFO      - run_epinions.py : 112 line - The 43-th epoch: 
+
+2024-01-18 08:54:52 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0082721710205078, MAE is 0.7876991812999432, att_loss is 0.48357524092380816
+2024-01-18 08:54:52 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.42658937665132374, AUC is 0.5074675426763456 and Average Precision is 0.15154723334097026
+2024-01-18 08:54:52 - root - INFO      - run_epinions.py : 117 line - training time is 30.629868368769802
+2024-01-18 08:54:56 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0562547120180996, MAE is 0.8314527273178101, att_loss is 0.4833988276394931
+2024-01-18 08:54:56 - root - INFO      - run_epinions.py : 270 line - val time is 3.7796385288238525
+2024-01-18 08:55:30 - root - INFO      - run_epinions.py : 112 line - The 44-th epoch: 
+
+2024-01-18 08:55:30 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.003854173880357, MAE is 0.7832415516559894, att_loss is 0.48328823768175566
+2024-01-18 08:55:30 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.42502593994140625, AUC is 0.5061638141175451 and Average Precision is 0.15115008941567123
+2024-01-18 08:55:30 - root - INFO      - run_epinions.py : 117 line - training time is 30.71050726825541
+2024-01-18 08:55:34 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.052537668835033, MAE is 0.8273041031577371, att_loss is 0.4831752153960141
+2024-01-18 08:55:34 - root - INFO      - run_epinions.py : 270 line - val time is 3.7235283851623535
+2024-01-18 08:56:08 - root - INFO      - run_epinions.py : 112 line - The 45-th epoch: 
+
+2024-01-18 08:56:08 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 1.0025057104917674, MAE is 0.7808686907474811, att_loss is 0.4831531047821045
+2024-01-18 08:56:08 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.42348018059363735, AUC is 0.5044352819964162 and Average Precision is 0.15081924770145472
+2024-01-18 08:56:08 - root - INFO      - run_epinions.py : 117 line - training time is 30.784130419625175
+2024-01-18 08:56:12 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0502535538239912, MAE is 0.8241832689805464, att_loss is 0.4829681840809909
+2024-01-18 08:56:12 - root - INFO      - run_epinions.py : 270 line - val time is 3.717780828475952
+2024-01-18 08:56:45 - root - INFO      - run_epinions.py : 112 line - The 46-th epoch: 
+
+2024-01-18 08:56:45 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9978954471074618, MAE is 0.7758909142934359, att_loss is 0.48288216499181896
+2024-01-18 08:56:45 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4219538110953111, AUC is 0.5029967542500628 and Average Precision is 0.15046040885935896
+2024-01-18 08:56:45 - root - INFO      - run_epinions.py : 117 line - training time is 30.844163568123527
+2024-01-18 08:56:49 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0482976111498745, MAE is 0.8209991996938532, att_loss is 0.48274978453462775
+2024-01-18 08:56:49 - root - INFO      - run_epinions.py : 270 line - val time is 4.053513765335083
+2024-01-18 08:57:23 - root - INFO      - run_epinions.py : 112 line - The 47-th epoch: 
+
+2024-01-18 08:57:23 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9962044816750747, MAE is 0.7730116385679978, att_loss is 0.4826929821417882
+2024-01-18 08:57:23 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.42044814504109895, AUC is 0.5031979047772255 and Average Precision is 0.15053501765595734
+2024-01-18 08:57:23 - root - INFO      - run_epinions.py : 117 line - training time is 30.89766448102099
+2024-01-18 08:57:26 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0471072847192937, MAE is 0.8188386505300348, att_loss is 0.48256712610071356
+2024-01-18 08:57:26 - root - INFO      - run_epinions.py : 270 line - val time is 3.7441253662109375
+2024-01-18 08:57:59 - root - INFO      - run_epinions.py : 112 line - The 48-th epoch: 
+
+2024-01-18 08:57:59 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9947647268955524, MAE is 0.7709999267871563, att_loss is 0.4824932928268726
+2024-01-18 08:57:59 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4189646954719837, AUC is 0.5025509854317772 and Average Precision is 0.1503846170678754
+2024-01-18 08:57:59 - root - INFO      - run_epinions.py : 117 line - training time is 30.93244855602582
+2024-01-18 08:58:03 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.04583431373943, MAE is 0.8172129934484308, att_loss is 0.4823903062126853
+2024-01-18 08:58:03 - root - INFO      - run_epinions.py : 270 line - val time is 3.692330837249756
+2024-01-18 08:58:35 - root - INFO      - run_epinions.py : 112 line - The 49-th epoch: 
+
+2024-01-18 08:58:35 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9943826061028701, MAE is 0.769553216604086, att_loss is 0.48229682674774754
+2024-01-18 08:58:35 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.41750483558728146, AUC is 0.4996360322272238 and Average Precision is 0.1496515981452519
+2024-01-18 08:58:35 - root - INFO      - run_epinions.py : 117 line - training time is 30.9593212507209
+2024-01-18 08:58:39 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0434411764144897, MAE is 0.8145352872935209, att_loss is 0.48215977170250635
+2024-01-18 08:58:39 - root - INFO      - run_epinions.py : 270 line - val time is 3.8205912113189697
+2024-01-18 08:59:11 - root - INFO      - run_epinions.py : 112 line - The 50-th epoch: 
+
+2024-01-18 08:59:11 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9924096556810232, MAE is 0.7675949518497174, att_loss is 0.4820932447910309
+2024-01-18 08:59:11 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.41606950530639064, AUC is 0.5016217703242754 and Average Precision is 0.15009756598273077
+2024-01-18 08:59:11 - root - INFO      - run_epinions.py : 117 line - training time is 30.98919707775116
+2024-01-18 08:59:15 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.042040770704096, MAE is 0.81267911195755, att_loss is 0.4819383106448434
+2024-01-18 08:59:15 - root - INFO      - run_epinions.py : 270 line - val time is 4.116245269775391
+2024-01-18 08:59:49 - root - INFO      - run_epinions.py : 112 line - The 51-th epoch: 
+
+2024-01-18 08:59:49 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.990364867907304, MAE is 0.7646313951565669, att_loss is 0.4818942340520712
+2024-01-18 08:59:49 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.41466019933040327, AUC is 0.5004226392633984 and Average Precision is 0.14984811588688896
+2024-01-18 08:59:49 - root - INFO      - run_epinions.py : 117 line - training time is 31.039839178908107
+2024-01-18 08:59:53 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0404525886882434, MAE is 0.8108702410351146, att_loss is 0.4817183884707364
+2024-01-18 08:59:53 - root - INFO      - run_epinions.py : 270 line - val time is 3.770843267440796
+2024-01-18 09:00:26 - root - INFO      - run_epinions.py : 112 line - The 52-th epoch: 
+
+2024-01-18 09:00:26 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9889170573307917, MAE is 0.7631891920016363, att_loss is 0.4816652490542485
+2024-01-18 09:00:26 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4132778782110948, AUC is 0.5007868747644888 and Average Precision is 0.14990606587206443
+2024-01-18 09:00:26 - root - INFO      - run_epinions.py : 117 line - training time is 31.075523766187523
+2024-01-18 09:00:30 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.039060896093195, MAE is 0.8089870160276239, att_loss is 0.4815602275458249
+2024-01-18 09:00:30 - root - INFO      - run_epinions.py : 270 line - val time is 4.017153739929199
+2024-01-18 09:01:02 - root - INFO      - run_epinions.py : 112 line - The 53-th epoch: 
+
+2024-01-18 09:01:02 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9878898904873774, MAE is 0.7610091154391949, att_loss is 0.4814752982212947
+2024-01-18 09:01:02 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4119236194170438, AUC is 0.4993278315757315 and Average Precision is 0.1495578788811955
+2024-01-18 09:01:02 - root - INFO      - run_epinions.py : 117 line - training time is 31.10475371468742
+2024-01-18 09:01:06 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0394793098623103, MAE is 0.8078349937092174, att_loss is 0.48138103701851587
+2024-01-18 09:01:06 - root - INFO      - run_epinions.py : 270 line - val time is 3.7237491607666016
+2024-01-18 09:01:40 - root - INFO      - run_epinions.py : 112 line - The 54-th epoch: 
+
+2024-01-18 09:01:40 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9880981537011954, MAE is 0.7598494337155268, att_loss is 0.4812860397192148
+2024-01-18 09:01:40 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.41059812903404236, AUC is 0.4992179059736409 and Average Precision is 0.1496378220154003
+2024-01-18 09:01:40 - root - INFO      - run_epinions.py : 117 line - training time is 31.15972523336057
+2024-01-18 09:01:44 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0375281680714001, MAE is 0.8059081922877919, att_loss is 0.48112070289525116
+2024-01-18 09:01:44 - root - INFO      - run_epinions.py : 270 line - val time is 3.8484678268432617
+2024-01-18 09:02:18 - root - INFO      - run_epinions.py : 112 line - The 55-th epoch: 
+
+2024-01-18 09:02:18 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9859750316693232, MAE is 0.7583684646166288, att_loss is 0.48102673429709214
+2024-01-18 09:02:18 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4093021819224724, AUC is 0.4967733281339768 and Average Precision is 0.14894793539031093
+2024-01-18 09:02:18 - root - INFO      - run_epinions.py : 117 line - training time is 31.210303193872626
+2024-01-18 09:02:22 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0365492755716497, MAE is 0.804775741967288, att_loss is 0.48093304308977997
+2024-01-18 09:02:22 - root - INFO      - run_epinions.py : 270 line - val time is 3.769338607788086
+2024-01-18 09:02:55 - root - INFO      - run_epinions.py : 112 line - The 56-th epoch: 
+
+2024-01-18 09:02:55 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9852572404421293, MAE is 0.7568865280884963, att_loss is 0.48085084328284633
+2024-01-18 09:02:55 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.40803651397044843, AUC is 0.497576628590772 and Average Precision is 0.14910008063602856
+2024-01-18 09:02:55 - root - INFO      - run_epinions.py : 117 line - training time is 31.247853313173568
+2024-01-18 09:02:59 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0351951230656018, MAE is 0.8028413382443514, att_loss is 0.4807020913470875
+2024-01-18 09:02:59 - root - INFO      - run_epinions.py : 270 line - val time is 3.7999825477600098
+2024-01-18 09:03:33 - root - INFO      - run_epinions.py : 112 line - The 57-th epoch: 
+
+2024-01-18 09:03:33 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9858447221609262, MAE is 0.7566506816790655, att_loss is 0.48066810690439665
+2024-01-18 09:03:33 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4068016066001012, AUC is 0.49495253666617106 and Average Precision is 0.14848568363425402
+2024-01-18 09:03:33 - root - INFO      - run_epinions.py : 117 line - training time is 31.293255274755914
+2024-01-18 09:03:37 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0358538627624512, MAE is 0.8024405186826532, att_loss is 0.48053821650418366
+2024-01-18 09:03:37 - root - INFO      - run_epinions.py : 270 line - val time is 3.96817684173584
+2024-01-18 09:04:11 - root - INFO      - run_epinions.py : 112 line - The 58-th epoch: 
+
+2024-01-18 09:04:11 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9864915288411654, MAE is 0.7567281998120822, att_loss is 0.48049730979479277
+2024-01-18 09:04:11 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.40559812921744126, AUC is 0.49645364764080224 and Average Precision is 0.14887366794336507
+2024-01-18 09:04:11 - root - INFO      - run_epinions.py : 117 line - training time is 31.347535252571106
+2024-01-18 09:04:15 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0348460891030051, MAE is 0.8015737750313499, att_loss is 0.48032578284090216
+2024-01-18 09:04:15 - root - INFO      - run_epinions.py : 270 line - val time is 4.028341054916382
+2024-01-18 09:04:50 - root - INFO      - run_epinions.py : 112 line - The 59-th epoch: 
+
+2024-01-18 09:04:50 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9846854439148536, MAE is 0.7548001362727239, att_loss is 0.48027544067456174
+2024-01-18 09:04:50 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4044263225335341, AUC is 0.4944388280859565 and Average Precision is 0.14837177130025936
+2024-01-18 09:04:50 - root - INFO      - run_epinions.py : 117 line - training time is 31.405104030997066
+2024-01-18 09:04:54 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0340412096543745, MAE is 0.8001556667414579, att_loss is 0.48010981353846466
+2024-01-18 09:04:54 - root - INFO      - run_epinions.py : 270 line - val time is 3.8643414974212646
+2024-01-18 09:05:28 - root - INFO      - run_epinions.py : 112 line - The 60-th epoch: 
+
+2024-01-18 09:05:28 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9832419569675739, MAE is 0.7530471728398249, att_loss is 0.4800346906368549
+2024-01-18 09:05:28 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4032864960340353, AUC is 0.49392923748714535 and Average Precision is 0.14831515442746623
+2024-01-18 09:05:28 - root - INFO      - run_epinions.py : 117 line - training time is 31.450111099084218
+2024-01-18 09:05:32 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.033676570112055, MAE is 0.7994146563790061, att_loss is 0.47991528565233404
+2024-01-18 09:05:32 - root - INFO      - run_epinions.py : 270 line - val time is 3.7179110050201416
+2024-01-18 09:06:05 - root - INFO      - run_epinions.py : 112 line - The 61-th epoch: 
+
+2024-01-18 09:06:05 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.983377993106842, MAE is 0.7528427289082453, att_loss is 0.4798349371323219
+2024-01-18 09:06:05 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.40217888355255127, AUC is 0.49193994726222773 and Average Precision is 0.14783216494026866
+2024-01-18 09:06:05 - root - INFO      - run_epinions.py : 117 line - training time is 31.48308439723781
+2024-01-18 09:06:09 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0341396765275435, MAE is 0.7995030554858121, att_loss is 0.4797209772196683
+2024-01-18 09:06:09 - root - INFO      - run_epinions.py : 270 line - val time is 3.7909812927246094
+2024-01-18 09:06:43 - root - INFO      - run_epinions.py : 112 line - The 62-th epoch: 
+
+2024-01-18 09:06:43 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9830629183695867, MAE is 0.7518928280243506, att_loss is 0.4796563937113835
+2024-01-18 09:06:43 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.4011034254844372, AUC is 0.49427696099986534 and Average Precision is 0.14837404568665485
+2024-01-18 09:06:43 - root - INFO      - run_epinions.py : 117 line - training time is 31.531201285700643
+2024-01-18 09:06:47 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0333514321934094, MAE is 0.7979623837904497, att_loss is 0.47950136932459747
+2024-01-18 09:06:47 - root - INFO      - run_epinions.py : 270 line - val time is 3.8025474548339844
+2024-01-18 09:07:21 - root - INFO      - run_epinions.py : 112 line - The 63-th epoch: 
+
+2024-01-18 09:07:21 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.983337191435007, MAE is 0.7517366821949298, att_loss is 0.47948046830984264
+2024-01-18 09:07:21 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.40006054593966556, AUC is 0.49117755247386585 and Average Precision is 0.1476736067585524
+2024-01-18 09:07:21 - root - INFO      - run_epinions.py : 117 line - training time is 31.572332620620728
+2024-01-18 09:07:25 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0327187017960981, MAE is 0.7972199808467518, att_loss is 0.47930225459012116
+2024-01-18 09:07:25 - root - INFO      - run_epinions.py : 270 line - val time is 3.7704081535339355
+2024-01-18 09:07:59 - root - INFO      - run_epinions.py : 112 line - The 64-th epoch: 
+
+2024-01-18 09:07:59 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9821537366280189, MAE is 0.7505636031811054, att_loss is 0.4792598829819606
+2024-01-18 09:07:59 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.39904969242902905, AUC is 0.49191688241883075 and Average Precision is 0.14789373494151745
+2024-01-18 09:07:59 - root - INFO      - run_epinions.py : 117 line - training time is 31.60982320085168
+2024-01-18 09:08:03 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.030980196866122, MAE is 0.796105986291712, att_loss is 0.47906309908086603
+2024-01-18 09:08:03 - root - INFO      - run_epinions.py : 270 line - val time is 3.7952964305877686
+2024-01-18 09:08:36 - root - INFO      - run_epinions.py : 112 line - The 65-th epoch: 
+
+2024-01-18 09:08:36 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9826232057351333, MAE is 0.7502828332094046, att_loss is 0.4790496551073514
+2024-01-18 09:08:36 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.398071078153757, AUC is 0.4893450826344552 and Average Precision is 0.14735977579200477
+2024-01-18 09:08:36 - root - INFO      - run_epinions.py : 117 line - training time is 31.62835435500512
+2024-01-18 09:08:39 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.030496131290089, MAE is 0.7947199182076887, att_loss is 0.4788655476136641
+2024-01-18 09:08:39 - root - INFO      - run_epinions.py : 270 line - val time is 3.8053338527679443
+2024-01-18 09:09:13 - root - INFO      - run_epinions.py : 112 line - The 66-th epoch: 
+
+2024-01-18 09:09:13 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9815840400182284, MAE is 0.7487964446728046, att_loss is 0.4788233912908114
+2024-01-18 09:09:13 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3971242858813359, AUC is 0.489498987819477 and Average Precision is 0.14738108848181247
+2024-01-18 09:09:13 - root - INFO      - run_epinions.py : 117 line - training time is 31.650582309925195
+2024-01-18 09:09:17 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0315156958319924, MAE is 0.7947269569743763, att_loss is 0.4786836125633933
+2024-01-18 09:09:17 - root - INFO      - run_epinions.py : 270 line - val time is 4.0724406242370605
+2024-01-18 09:09:50 - root - INFO      - run_epinions.py : 112 line - The 67-th epoch: 
+
+2024-01-18 09:09:50 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9802699043200567, MAE is 0.7471225490936866, att_loss is 0.47863006591796875
+2024-01-18 09:09:50 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3962091620151813, AUC is 0.48663558872638607 and Average Precision is 0.1466889658626044
+2024-01-18 09:09:50 - root - INFO      - run_epinions.py : 117 line - training time is 31.675457957965225
+2024-01-18 09:09:54 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0311602354049683, MAE is 0.7941909324039113, att_loss is 0.4785024442455985
+2024-01-18 09:09:54 - root - INFO      - run_epinions.py : 270 line - val time is 3.8351473808288574
+2024-01-18 09:10:27 - root - INFO      - run_epinions.py : 112 line - The 68-th epoch: 
+
+2024-01-18 09:10:27 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9813021329733042, MAE is 0.7486209410887498, att_loss is 0.47847267985343933
+2024-01-18 09:10:27 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.39532526410543, AUC is 0.4899558763620027 and Average Precision is 0.14751818952934934
+2024-01-18 09:10:27 - root - INFO      - run_epinions.py : 117 line - training time is 31.69225161566454
+2024-01-18 09:10:30 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.03162635456432, MAE is 0.7947358434850519, att_loss is 0.47829584912820294
+2024-01-18 09:10:30 - root - INFO      - run_epinions.py : 270 line - val time is 3.7102396488189697
+2024-01-18 09:11:04 - root - INFO      - run_epinions.py : 112 line - The 69-th epoch: 
+
+2024-01-18 09:11:04 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9806252626272348, MAE is 0.7474161844987136, att_loss is 0.4782385207139529
+2024-01-18 09:11:04 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.39447230329880345, AUC is 0.48751478352458427 and Average Precision is 0.14695522488902596
+2024-01-18 09:11:04 - root - INFO      - run_epinions.py : 117 line - training time is 31.721027039099432
+2024-01-18 09:11:08 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0304273150183938, MAE is 0.7930920069867914, att_loss is 0.4780663089318709
+2024-01-18 09:11:08 - root - INFO      - run_epinions.py : 270 line - val time is 4.087557077407837
+2024-01-18 09:11:42 - root - INFO      - run_epinions.py : 112 line - The 70-th epoch: 
+
+2024-01-18 09:11:42 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9805568135701693, MAE is 0.7464880347251892, att_loss is 0.4780153838487772
+2024-01-18 09:11:42 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.39364975461593044, AUC is 0.48795282390071687 and Average Precision is 0.1470505689543336
+2024-01-18 09:11:42 - root - INFO      - run_epinions.py : 117 line - training time is 31.74597969736372
+2024-01-18 09:11:45 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0300142006440596, MAE is 0.7921619361097162, att_loss is 0.47784466635097156
+2024-01-18 09:11:45 - root - INFO      - run_epinions.py : 270 line - val time is 3.796848773956299
+2024-01-18 09:12:18 - root - INFO      - run_epinions.py : 112 line - The 71-th epoch: 
+
+2024-01-18 09:12:18 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9808363731090839, MAE is 0.7464374303817749, att_loss is 0.4778393300680014
+2024-01-18 09:12:18 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3928571297572209, AUC is 0.4877885010778744 and Average Precision is 0.14704167377497732
+2024-01-18 09:12:18 - root - INFO      - run_epinions.py : 117 line - training time is 31.754001086866353
+2024-01-18 09:12:22 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0304032889279453, MAE is 0.7923215356740084, att_loss is 0.4776988056573001
+2024-01-18 09:12:22 - root - INFO      - run_epinions.py : 270 line - val time is 3.957472085952759
+2024-01-18 09:12:55 - root - INFO      - run_epinions.py : 112 line - The 72-th epoch: 
+
+2024-01-18 09:12:55 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9803342773364141, MAE is 0.7461806352321918, att_loss is 0.47766038316946763
+2024-01-18 09:12:55 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.39209388769589937, AUC is 0.48836358955708065 and Average Precision is 0.14722678399122277
+2024-01-18 09:12:55 - root - INFO      - run_epinions.py : 117 line - training time is 31.771855490075218
+2024-01-18 09:12:59 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.029776692390442, MAE is 0.7918521382591941, att_loss is 0.47745866667140613
+2024-01-18 09:12:59 - root - INFO      - run_epinions.py : 270 line - val time is 3.8161849975585938
+2024-01-18 09:13:31 - root - INFO      - run_epinions.py : 112 line - The 73-th epoch: 
+
+2024-01-18 09:13:31 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9796713498922495, MAE is 0.7449560990700355, att_loss is 0.47746323392941403
+2024-01-18 09:13:31 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3913594576028677, AUC is 0.48738533395183237 and Average Precision is 0.1470244366113817
+2024-01-18 09:13:31 - root - INFO      - run_epinions.py : 117 line - training time is 31.7819809391074
+2024-01-18 09:13:35 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0304782607338645, MAE is 0.7920972759073431, att_loss is 0.4772655042735013
+2024-01-18 09:13:35 - root - INFO      - run_epinions.py : 270 line - val time is 4.137385368347168
+2024-01-18 09:14:10 - root - INFO      - run_epinions.py : 112 line - The 74-th epoch: 
+
+2024-01-18 09:14:10 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9802073744627146, MAE is 0.7454119920730591, att_loss is 0.4772624671459198
+2024-01-18 09:14:10 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3906532136293558, AUC is 0.48665296240172545 and Average Precision is 0.14689601500752567
+2024-01-18 09:14:10 - root - INFO      - run_epinions.py : 117 line - training time is 31.819693600809252
+2024-01-18 09:14:14 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.030358000235124, MAE is 0.7913595979863947, att_loss is 0.47709664702415466
+2024-01-18 09:14:14 - root - INFO      - run_epinions.py : 270 line - val time is 4.121887445449829
+2024-01-18 09:14:48 - root - INFO      - run_epinions.py : 112 line - The 75-th epoch: 
+
+2024-01-18 09:14:48 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9798323099429791, MAE is 0.7449511931492732, att_loss is 0.4770369208776034
+2024-01-18 09:14:48 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3899744978317848, AUC is 0.4878690063034029 and Average Precision is 0.1471738252176334
+2024-01-18 09:14:48 - root - INFO      - run_epinions.py : 117 line - training time is 31.846200234095257
+2024-01-18 09:14:52 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0291488495740024, MAE is 0.7907391894947399, att_loss is 0.4768747795711864
+2024-01-18 09:14:52 - root - INFO      - run_epinions.py : 270 line - val time is 3.7916054725646973
+2024-01-18 09:15:26 - root - INFO      - run_epinions.py : 112 line - The 76-th epoch: 
+
+2024-01-18 09:15:26 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9797476071577805, MAE is 0.7443610979960515, att_loss is 0.4768504523313962
+2024-01-18 09:15:26 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.38932265914403474, AUC is 0.4850998141277094 and Average Precision is 0.1465808522392019
+2024-01-18 09:15:26 - root - INFO      - run_epinions.py : 117 line - training time is 31.87702794765171
+2024-01-18 09:15:30 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0289040045304731, MAE is 0.7897455096244812, att_loss is 0.47665953094309027
+2024-01-18 09:15:30 - root - INFO      - run_epinions.py : 270 line - val time is 4.169628143310547
+2024-01-18 09:16:03 - root - INFO      - run_epinions.py : 112 line - The 77-th epoch: 
+
+2024-01-18 09:16:03 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9796354174613953, MAE is 0.7437406961734478, att_loss is 0.47660616957224333
+2024-01-18 09:16:03 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.38869699377280015, AUC is 0.48668976350578497 and Average Precision is 0.14705908347300653
+2024-01-18 09:16:03 - root - INFO      - run_epinions.py : 117 line - training time is 31.894004471890337
+2024-01-18 09:16:07 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0287748358466409, MAE is 0.7897035425359552, att_loss is 0.4764960381117734
+2024-01-18 09:16:07 - root - INFO      - run_epinions.py : 270 line - val time is 3.7583792209625244
+2024-01-18 09:16:41 - root - INFO      - run_epinions.py : 112 line - The 78-th epoch: 
+
+2024-01-18 09:16:41 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9807293827717121, MAE is 0.7444152373533982, att_loss is 0.47645028737875134
+2024-01-18 09:16:41 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.388096816264666, AUC is 0.48177439867502814 and Average Precision is 0.14590408884820102
+2024-01-18 09:16:41 - root - INFO      - run_epinions.py : 117 line - training time is 31.917052956727836
+2024-01-18 09:16:44 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0287731885910034, MAE is 0.7892523353750055, att_loss is 0.4762871427969499
+2024-01-18 09:16:44 - root - INFO      - run_epinions.py : 270 line - val time is 3.746168375015259
+2024-01-18 09:17:18 - root - INFO      - run_epinions.py : 112 line - The 79-th epoch: 
+
+2024-01-18 09:17:18 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9789971984349765, MAE is 0.7434367675047654, att_loss is 0.4762439727783203
+2024-01-18 09:17:18 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3875213059095236, AUC is 0.48476732653245824 and Average Precision is 0.14661899055533792
+2024-01-18 09:17:18 - root - INFO      - run_epinions.py : 117 line - training time is 31.9336740035045
+2024-01-18 09:17:21 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.028598341074857, MAE is 0.7888215400955894, att_loss is 0.47608274763280695
+2024-01-18 09:17:21 - root - INFO      - run_epinions.py : 270 line - val time is 3.780876874923706
+2024-01-18 09:17:55 - root - INFO      - run_epinions.py : 112 line - The 80-th epoch: 
+
+2024-01-18 09:17:55 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.979612084535452, MAE is 0.7437176521007831, att_loss is 0.4760023561807779
+2024-01-18 09:17:55 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.38696988500081575, AUC is 0.4850166462437831 and Average Precision is 0.146808387018198
+2024-01-18 09:17:55 - root - INFO      - run_epinions.py : 117 line - training time is 31.951778039336205
+2024-01-18 09:17:59 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0283360047773882, MAE is 0.7889054580168291, att_loss is 0.475871053608981
+2024-01-18 09:17:59 - root - INFO      - run_epinions.py : 270 line - val time is 3.740809917449951
+2024-01-18 09:18:32 - root - INFO      - run_epinions.py : 112 line - The 81-th epoch: 
+
+2024-01-18 09:18:32 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9795736257846539, MAE is 0.7436280617347131, att_loss is 0.47585248717894923
+2024-01-18 09:18:32 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3864417053185977, AUC is 0.4845916213031056 and Average Precision is 0.14671470105937848
+2024-01-18 09:18:32 - root - INFO      - run_epinions.py : 117 line - training time is 31.974998397591673
+2024-01-18 09:18:36 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0294951308857312, MAE is 0.7895117889751088, att_loss is 0.47568749568679114
+2024-01-18 09:18:36 - root - INFO      - run_epinions.py : 270 line - val time is 3.8909718990325928
+2024-01-18 09:19:11 - root - INFO      - run_epinions.py : 112 line - The 82-th epoch: 
+
+2024-01-18 09:19:11 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9802220372053293, MAE is 0.7438654945446894, att_loss is 0.4756613282056955
+2024-01-18 09:19:11 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.38593604472967297, AUC is 0.4842404031375891 and Average Precision is 0.14684657828872025
+2024-01-18 09:19:11 - root - INFO      - run_epinions.py : 117 line - training time is 32.01117013431177
+2024-01-18 09:19:15 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.029254360632463, MAE is 0.7887511632659219, att_loss is 0.4755062596364455
+2024-01-18 09:19:15 - root - INFO      - run_epinions.py : 270 line - val time is 4.046579122543335
+2024-01-18 09:19:49 - root - INFO      - run_epinions.py : 112 line - The 83-th epoch: 
+
+2024-01-18 09:19:49 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9789924117235037, MAE is 0.7425792217254639, att_loss is 0.47540833629094637
+2024-01-18 09:19:49 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.385452192563277, AUC is 0.48577264827400496 and Average Precision is 0.14719694000532718
+2024-01-18 09:19:49 - root - INFO      - run_epinions.py : 117 line - training time is 32.02892450252211
+2024-01-18 09:19:53 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.029063961722634, MAE is 0.7882036729292436, att_loss is 0.47528505054387177
+2024-01-18 09:19:53 - root - INFO      - run_epinions.py : 270 line - val time is 3.7813966274261475
+2024-01-18 09:20:27 - root - INFO      - run_epinions.py : 112 line - The 84-th epoch: 
+
+2024-01-18 09:20:27 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9785403655125544, MAE is 0.7422475172923162, att_loss is 0.4752604365348816
+2024-01-18 09:20:27 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3849894060538365, AUC is 0.4837962408540818 and Average Precision is 0.1467134370285001
+2024-01-18 09:20:27 - root - INFO      - run_epinions.py : 117 line - training time is 32.052272617816925
+2024-01-18 09:20:30 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0279387344013562, MAE is 0.787225750359622, att_loss is 0.4750724055550315
+2024-01-18 09:20:30 - root - INFO      - run_epinions.py : 270 line - val time is 3.6954798698425293
+2024-01-18 09:21:03 - root - INFO      - run_epinions.py : 112 line - The 85-th epoch: 
+
+2024-01-18 09:21:03 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.97870200413924, MAE is 0.7421046908085163, att_loss is 0.4750410455923814
+2024-01-18 09:21:03 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.38454692638837373, AUC is 0.48095594798217284 and Average Precision is 0.14620198608973617
+2024-01-18 09:21:03 - root - INFO      - run_epinions.py : 117 line - training time is 32.06528751429389
+2024-01-18 09:21:08 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0291829867796465, MAE is 0.7882520502263849, att_loss is 0.47489090399308637
+2024-01-18 09:21:08 - root - INFO      - run_epinions.py : 270 line - val time is 4.151019096374512
+2024-01-18 09:21:40 - root - INFO      - run_epinions.py : 112 line - The 86-th epoch: 
+
+2024-01-18 09:21:40 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.979606357904581, MAE is 0.742393787090595, att_loss is 0.4748872954111833
+2024-01-18 09:21:40 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.38412402684871966, AUC is 0.4845015482432459 and Average Precision is 0.14708861303093002
+2024-01-18 09:21:40 - root - INFO      - run_epinions.py : 117 line - training time is 32.074259697004806
+2024-01-18 09:21:45 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0287712595679543, MAE is 0.7874993898651816, att_loss is 0.4746486707167192
+2024-01-18 09:21:45 - root - INFO      - run_epinions.py : 270 line - val time is 4.0613439083099365
+2024-01-18 09:22:19 - root - INFO      - run_epinions.py : 112 line - The 87-th epoch: 
+
+2024-01-18 09:22:19 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9790452260237473, MAE is 0.7414073393895075, att_loss is 0.47466949774668765
+2024-01-18 09:22:19 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3837200036415687, AUC is 0.48358192048345217 and Average Precision is 0.1469340511237929
+2024-01-18 09:22:19 - root - INFO      - run_epinions.py : 117 line - training time is 32.10579557528441
+2024-01-18 09:22:23 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0269193269989707, MAE is 0.786243276162581, att_loss is 0.47447131980549206
+2024-01-18 09:22:23 - root - INFO      - run_epinions.py : 270 line - val time is 3.9730985164642334
+2024-01-18 09:22:58 - root - INFO      - run_epinions.py : 112 line - The 88-th epoch: 
+
+2024-01-18 09:22:58 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9800323798106267, MAE is 0.7424272115413959, att_loss is 0.4745116394299727
+2024-01-18 09:22:58 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3833341208788065, AUC is 0.48339960018098754 and Average Precision is 0.14698903201525476
+2024-01-18 09:22:58 - root - INFO      - run_epinions.py : 117 line - training time is 32.13024670156565
+2024-01-18 09:23:01 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0284066742116755, MAE is 0.7867122129960493, att_loss is 0.4743056216023185
+2024-01-18 09:23:01 - root - INFO      - run_epinions.py : 270 line - val time is 3.759092092514038
+2024-01-18 09:23:34 - root - INFO      - run_epinions.py : 112 line - The 89-th epoch: 
+
+2024-01-18 09:23:34 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9795528054237366, MAE is 0.7415591753446139, att_loss is 0.4742831817040077
+2024-01-18 09:23:34 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3829657664665809, AUC is 0.48109820187162244 and Average Precision is 0.14644374546023436
+2024-01-18 09:23:34 - root - INFO      - run_epinions.py : 117 line - training time is 32.14117873920483
+2024-01-18 09:23:38 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.028415322303772, MAE is 0.7866024266589772, att_loss is 0.47408912398598413
+2024-01-18 09:23:38 - root - INFO      - run_epinions.py : 270 line - val time is 3.899540662765503
+2024-01-18 09:24:11 - root - INFO      - run_epinions.py : 112 line - The 90-th epoch: 
+
+2024-01-18 09:24:11 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9780958845065191, MAE is 0.7405530718656687, att_loss is 0.47402013494418216
+2024-01-18 09:24:11 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.3826141632520236, AUC is 0.48157574970405964 and Average Precision is 0.14670299778505191
+2024-01-18 09:24:11 - root - INFO      - run_epinions.py : 117 line - training time is 32.151034180323286
+2024-01-18 09:24:15 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0281554460525513, MAE is 0.7868391058661721, att_loss is 0.4738971157507463
+2024-01-18 09:24:15 - root - INFO      - run_epinions.py : 270 line - val time is 3.7296504974365234
+2024-01-18 09:24:49 - root - INFO      - run_epinions.py : 112 line - The 91-th epoch: 
+
+2024-01-18 09:24:49 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9782105546731216, MAE is 0.7409917024465708, att_loss is 0.4738503052638127
+2024-01-18 09:24:49 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.38227867163144624, AUC is 0.4852099862801283 and Average Precision is 0.14762397574917896
+2024-01-18 09:24:49 - root - INFO      - run_epinions.py : 117 line - training time is 32.16459937934037
+2024-01-18 09:24:52 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0281120105223223, MAE is 0.7864898659966209, att_loss is 0.47372487458315765
+2024-01-18 09:24:52 - root - INFO      - run_epinions.py : 270 line - val time is 3.7762045860290527
+2024-01-18 09:25:25 - root - INFO      - run_epinions.py : 112 line - The 92-th epoch: 
+
+2024-01-18 09:25:25 - root - INFO      - run_epinions.py : 113 line - For Rating Prediction: RMSE is 0.9786194608761714, MAE is 0.7405637823618375, att_loss is 0.4736858537563911
+2024-01-18 09:25:25 - root - INFO      - run_epinions.py : 115 line - For Trust Relation: loss is 0.38195867721851057, AUC is 0.4825921843113696 and Average Precision is 0.1470926403997596
+2024-01-18 09:25:25 - root - INFO      - run_epinions.py : 117 line - training time is 32.17312629844832
+2024-01-18 09:25:29 - root - INFO      - run_epinions.py : 269 line - val Rating Prediction: RMSE is 1.0279431017962368, MAE is 0.7860855080864646, att_loss is 0.47349881583994086
+2024-01-18 09:25:29 - root - INFO      - run_epinions.py : 270 line - val time is 3.7901692390441895
+2024-01-18 09:25:29 - root - INFO      - run_epinions.py : 122 line - Early stopping
+
+2024-01-18 09:28:53 - root - INFO      - run_epinions.py : 212 line - For Rating Prediction: RMSE is 1.0273877779642742, MAE is 0.7855498989423116, att_loss is 0.473470280567805
+2024-01-18 09:28:53 - root - INFO      - run_epinions.py : 214 line - test time is 2.043174982070923
+

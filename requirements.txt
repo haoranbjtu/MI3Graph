@@ -1,0 +1,7 @@
+dgl==1.0.1+cu113
+numpy==1.21.2
+pandas==1.4.2
+scikit_learn==1.0.1
+scipy==1.7.1
+torch==1.10.0+cu113
+torch==1.10.0

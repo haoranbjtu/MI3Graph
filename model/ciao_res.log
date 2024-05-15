@@ -1,0 +1,603 @@
+2024-01-18 00:33:26 - root - INFO      - run_ciao.py : 247 line - For Rating Prediction: RMSE is 0.906354546546936, MAE is 0.6887019872665405, att_loss is 0.44786766171455383
+2024-01-18 00:33:26 - root - INFO      - run_ciao.py : 248 line - test time is 0.23193883895874023
+2024-01-18 09:33:38 - root - INFO      - run_ciao.py : 111 line - The 1-th epoch: 
+
+2024-01-18 09:33:38 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 4.424188772837321, MAE is 4.3079884847005205, att_loss is 0.5076220631599426
+2024-01-18 09:33:38 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.48712647954622906, AUC is 0.5722543097269606 and Average Precision is 0.18328860093913849
+2024-01-18 09:33:38 - root - INFO      - run_ciao.py : 115 line - training time is 1.8757188320159912
+2024-01-18 09:33:38 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 4.390197277069092, MAE is 4.272500514984131, att_loss is 0.5071654319763184
+2024-01-18 09:33:38 - root - INFO      - run_ciao.py : 269 line - val time is 0.30023860931396484
+2024-01-18 09:33:40 - root - INFO      - run_ciao.py : 111 line - The 2-th epoch: 
+
+2024-01-18 09:33:40 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 4.346258481343587, MAE is 4.2277248700459795, att_loss is 0.5069872935612997
+2024-01-18 09:33:40 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4833293855190277, AUC is 0.5953037136248209 and Average Precision is 0.18810604392307342
+2024-01-18 09:33:40 - root - INFO      - run_ciao.py : 115 line - training time is 1.8212624788284302
+2024-01-18 09:33:40 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 4.312526226043701, MAE is 4.192647457122803, att_loss is 0.5065422058105469
+2024-01-18 09:33:40 - root - INFO      - run_ciao.py : 269 line - val time is 0.2612910270690918
+2024-01-18 09:33:42 - root - INFO      - run_ciao.py : 111 line - The 3-th epoch: 
+
+2024-01-18 09:33:42 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 4.2674886385599775, MAE is 4.147047996520996, att_loss is 0.5063944458961487
+2024-01-18 09:33:42 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4794645706812541, AUC is 0.5787930311404175 and Average Precision is 0.176907965838856
+2024-01-18 09:33:42 - root - INFO      - run_ciao.py : 115 line - training time is 1.8133771419525146
+2024-01-18 09:33:42 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 4.228529930114746, MAE is 4.106191158294678, att_loss is 0.5059328675270081
+2024-01-18 09:33:42 - root - INFO      - run_ciao.py : 269 line - val time is 0.258866548538208
+2024-01-18 09:33:44 - root - INFO      - run_ciao.py : 111 line - The 4-th epoch: 
+
+2024-01-18 09:33:44 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 4.178393840789795, MAE is 4.05509074529012, att_loss is 0.5057635108629862
+2024-01-18 09:33:44 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4756086270014445, AUC is 0.5631836256593078 and Average Precision is 0.17038718343039358
+2024-01-18 09:33:44 - root - INFO      - run_ciao.py : 115 line - training time is 1.8093055486679077
+2024-01-18 09:33:44 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 4.131434917449951, MAE is 4.006113052368164, att_loss is 0.5053151845932007
+2024-01-18 09:33:44 - root - INFO      - run_ciao.py : 269 line - val time is 0.276050329208374
+2024-01-18 09:33:46 - root - INFO      - run_ciao.py : 111 line - The 5-th epoch: 
+
+2024-01-18 09:33:46 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 4.074726422627767, MAE is 3.948355197906494, att_loss is 0.5051310261090597
+2024-01-18 09:33:46 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.47178035974502563, AUC is 0.5602141475422959 and Average Precision is 0.16896862346333796
+2024-01-18 09:33:46 - root - INFO      - run_ciao.py : 115 line - training time is 1.8061460494995116
+2024-01-18 09:33:46 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 4.013842582702637, MAE is 3.8846819400787354, att_loss is 0.5046916604042053
+2024-01-18 09:33:46 - root - INFO      - run_ciao.py : 269 line - val time is 0.28255629539489746
+2024-01-18 09:33:48 - root - INFO      - run_ciao.py : 111 line - The 6-th epoch: 
+
+2024-01-18 09:33:48 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 3.9468636512756348, MAE is 3.8164873917897544, att_loss is 0.5044997930526733
+2024-01-18 09:33:48 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4679886798063914, AUC is 0.5602010778033221 and Average Precision is 0.16904966714754777
+2024-01-18 09:33:48 - root - INFO      - run_ciao.py : 115 line - training time is 1.8051127990086873
+2024-01-18 09:33:48 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 3.8658785820007324, MAE is 3.731482982635498, att_loss is 0.504065215587616
+2024-01-18 09:33:48 - root - INFO      - run_ciao.py : 269 line - val time is 0.27218055725097656
+2024-01-18 09:33:50 - root - INFO      - run_ciao.py : 111 line - The 7-th epoch: 
+
+2024-01-18 09:33:50 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 3.7830870946248374, MAE is 3.6466903686523438, att_loss is 0.5038667321205139
+2024-01-18 09:33:50 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4642334779103597, AUC is 0.5548669675102545 and Average Precision is 0.1673181753452384
+2024-01-18 09:33:50 - root - INFO      - run_ciao.py : 115 line - training time is 1.804363148553031
+2024-01-18 09:33:50 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 3.6737563610076904, MAE is 3.5317747592926025, att_loss is 0.5034375190734863
+2024-01-18 09:33:50 - root - INFO      - run_ciao.py : 269 line - val time is 0.2766456604003906
+2024-01-18 09:33:52 - root - INFO      - run_ciao.py : 111 line - The 8-th epoch: 
+
+2024-01-18 09:33:52 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 3.567673921585083, MAE is 3.4223173459370932, att_loss is 0.5032347639401754
+2024-01-18 09:33:52 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4605097572008769, AUC is 0.5479926317650277 and Average Precision is 0.16517353153694103
+2024-01-18 09:33:52 - root - INFO      - run_ciao.py : 115 line - training time is 1.799067735671997
+2024-01-18 09:33:52 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 3.4193882942199707, MAE is 3.2671165466308594, att_loss is 0.5028092265129089
+2024-01-18 09:33:52 - root - INFO      - run_ciao.py : 269 line - val time is 0.2743809223175049
+2024-01-18 09:33:54 - root - INFO      - run_ciao.py : 111 line - The 9-th epoch: 
+
+2024-01-18 09:33:54 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 3.2811290423075357, MAE is 3.12787397702535, att_loss is 0.5026033719380697
+2024-01-18 09:33:54 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4568147659301758, AUC is 0.5465340116605305 and Average Precision is 0.16471674471478084
+2024-01-18 09:33:54 - root - INFO      - run_ciao.py : 115 line - training time is 1.7944576740264893
+2024-01-18 09:33:54 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 3.0814526081085205, MAE is 2.9277052879333496, att_loss is 0.5021808743476868
+2024-01-18 09:33:54 - root - INFO      - run_ciao.py : 269 line - val time is 0.24521803855895996
+2024-01-18 09:33:56 - root - INFO      - run_ciao.py : 111 line - The 10-th epoch: 
+
+2024-01-18 09:33:56 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 2.8984456857045493, MAE is 2.742940107981364, att_loss is 0.5019737680753072
+2024-01-18 09:33:56 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4531489113966624, AUC is 0.5410844412693082 and Average Precision is 0.16305999109146785
+2024-01-18 09:33:56 - root - INFO      - run_ciao.py : 115 line - training time is 1.7894748449325562
+2024-01-18 09:33:56 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 2.6390745639801025, MAE is 2.4795711040496826, att_loss is 0.5015528202056885
+2024-01-18 09:33:56 - root - INFO      - run_ciao.py : 269 line - val time is 0.31252145767211914
+2024-01-18 09:33:58 - root - INFO      - run_ciao.py : 111 line - The 11-th epoch: 
+
+2024-01-18 09:33:58 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 2.4004645347595215, MAE is 2.241525967915853, att_loss is 0.5013458728790283
+2024-01-18 09:33:58 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.44950901468594867, AUC is 0.5360830987198271 and Average Precision is 0.1614897955722695
+2024-01-18 09:33:58 - root - INFO      - run_ciao.py : 115 line - training time is 1.7868273908441716
+2024-01-18 09:33:58 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 2.087580442428589, MAE is 1.9290803670883179, att_loss is 0.5009251236915588
+2024-01-18 09:33:58 - root - INFO      - run_ciao.py : 269 line - val time is 0.273496150970459
+2024-01-18 09:34:00 - root - INFO      - run_ciao.py : 111 line - The 12-th epoch: 
+
+2024-01-18 09:34:00 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 1.7980186144510906, MAE is 1.639080246289571, att_loss is 0.5007170041402181
+2024-01-18 09:34:00 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4458979864915212, AUC is 0.5348353093782471 and Average Precision is 0.16135968565773726
+2024-01-18 09:34:00 - root - INFO      - run_ciao.py : 115 line - training time is 1.78725004196167
+2024-01-18 09:34:00 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 1.500744342803955, MAE is 1.325676679611206, att_loss is 0.500298261642456
+2024-01-18 09:34:00 - root - INFO      - run_ciao.py : 269 line - val time is 0.25989723205566406
+2024-01-18 09:34:02 - root - INFO      - run_ciao.py : 111 line - The 13-th epoch: 
+
+2024-01-18 09:34:02 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 1.2545796632766724, MAE is 1.0624467134475708, att_loss is 0.500091036160787
+2024-01-18 09:34:02 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4423154691855113, AUC is 0.5285073355858301 and Average Precision is 0.1593344246969385
+2024-01-18 09:34:02 - root - INFO      - run_ciao.py : 115 line - training time is 1.7858036481417143
+2024-01-18 09:34:03 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 1.1826014518737793, MAE is 0.9329537153244019, att_loss is 0.49967193603515625
+2024-01-18 09:34:03 - root - INFO      - run_ciao.py : 269 line - val time is 0.26000213623046875
+2024-01-18 09:34:04 - root - INFO      - run_ciao.py : 111 line - The 14-th epoch: 
+
+2024-01-18 09:34:04 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 1.1315300861994426, MAE is 0.8589046994845072, att_loss is 0.4994645913441976
+2024-01-18 09:34:04 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.438765952984492, AUC is 0.5290609236224798 and Average Precision is 0.15963087362294867
+2024-01-18 09:34:04 - root - INFO      - run_ciao.py : 115 line - training time is 1.7860281467437744
+2024-01-18 09:34:05 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 1.2787989377975464, MAE is 0.9588287472724915, att_loss is 0.4990465044975281
+2024-01-18 09:34:05 - root - INFO      - run_ciao.py : 269 line - val time is 0.2821693420410156
+2024-01-18 09:34:06 - root - INFO      - run_ciao.py : 111 line - The 15-th epoch: 
+
+2024-01-18 09:34:06 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 1.2542386452356975, MAE is 0.9450483918190002, att_loss is 0.49883951743443805
+2024-01-18 09:34:06 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4352561334768931, AUC is 0.5265080363153439 and Average Precision is 0.1589829773474476
+2024-01-18 09:34:06 - root - INFO      - run_ciao.py : 115 line - training time is 1.7902824878692627
+2024-01-18 09:34:07 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 1.2938448190689087, MAE is 0.9769565463066101, att_loss is 0.4984219968318939
+2024-01-18 09:34:07 - root - INFO      - run_ciao.py : 269 line - val time is 0.27530670166015625
+2024-01-18 09:34:09 - root - INFO      - run_ciao.py : 111 line - The 16-th epoch: 
+
+2024-01-18 09:34:09 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 1.1735834280649822, MAE is 0.8784773945808411, att_loss is 0.4982154866059621
+2024-01-18 09:34:09 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4317921002705892, AUC is 0.5178595460676602 and Average Precision is 0.15637740580733941
+2024-01-18 09:34:09 - root - INFO      - run_ciao.py : 115 line - training time is 1.7926598489284515
+2024-01-18 09:34:09 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 1.1675437688827515, MAE is 0.8816898465156555, att_loss is 0.4977983832359314
+2024-01-18 09:34:09 - root - INFO      - run_ciao.py : 269 line - val time is 0.27898478507995605
+2024-01-18 09:34:11 - root - INFO      - run_ciao.py : 111 line - The 17-th epoch: 
+
+2024-01-18 09:34:11 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 1.0080342292785645, MAE is 0.7558605074882507, att_loss is 0.4975908696651459
+2024-01-18 09:34:11 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4283836285273234, AUC is 0.5207355686904035 and Average Precision is 0.15736138134496
+2024-01-18 09:34:11 - root - INFO      - run_ciao.py : 115 line - training time is 1.7874520105474136
+2024-01-18 09:34:11 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 1.104692816734314, MAE is 0.8637275695800781, att_loss is 0.49717575311660767
+2024-01-18 09:34:11 - root - INFO      - run_ciao.py : 269 line - val time is 0.28218722343444824
+2024-01-18 09:34:13 - root - INFO      - run_ciao.py : 111 line - The 18-th epoch: 
+
+2024-01-18 09:34:13 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.9650169412295023, MAE is 0.7642876704533895, att_loss is 0.4969686071077983
+2024-01-18 09:34:13 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.42504029472668964, AUC is 0.5158415108549815 and Average Precision is 0.15585720505638814
+2024-01-18 09:34:13 - root - INFO      - run_ciao.py : 115 line - training time is 1.7865595552656386
+2024-01-18 09:34:13 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 1.1357958316802979, MAE is 0.9285780787467957, att_loss is 0.4965539872646332
+2024-01-18 09:34:13 - root - INFO      - run_ciao.py : 269 line - val time is 0.28267860412597656
+2024-01-18 09:34:15 - root - INFO      - run_ciao.py : 111 line - The 19-th epoch: 
+
+2024-01-18 09:34:15 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 1.0095533927281697, MAE is 0.8390067418416342, att_loss is 0.4963485399881999
+2024-01-18 09:34:15 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.42177443703015643, AUC is 0.5132892809545634 and Average Precision is 0.15528289729096115
+2024-01-18 09:34:15 - root - INFO      - run_ciao.py : 115 line - training time is 1.7848665086846602
+2024-01-18 09:34:15 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 1.1648234128952026, MAE is 0.9763246178627014, att_loss is 0.49593305587768555
+2024-01-18 09:34:15 - root - INFO      - run_ciao.py : 269 line - val time is 0.2581360340118408
+2024-01-18 09:34:17 - root - INFO      - run_ciao.py : 111 line - The 20-th epoch: 
+
+2024-01-18 09:34:17 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 1.0300533374150593, MAE is 0.8696011106173197, att_loss is 0.495725154876709
+2024-01-18 09:34:17 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4185963074366252, AUC is 0.5062098077472915 and Average Precision is 0.1533141162521264
+2024-01-18 09:34:17 - root - INFO      - run_ciao.py : 115 line - training time is 1.7851773858070374
+2024-01-18 09:34:17 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 1.14585280418396, MAE is 0.9624213576316833, att_loss is 0.4953133463859558
+2024-01-18 09:34:17 - root - INFO      - run_ciao.py : 269 line - val time is 0.2958245277404785
+2024-01-18 09:34:19 - root - INFO      - run_ciao.py : 111 line - The 21-th epoch: 
+
+2024-01-18 09:34:19 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.9957645336786906, MAE is 0.8350465099016825, att_loss is 0.495107501745224
+2024-01-18 09:34:19 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.41551758845647174, AUC is 0.5044397185384791 and Average Precision is 0.15288371282206523
+2024-01-18 09:34:19 - root - INFO      - run_ciao.py : 115 line - training time is 1.792575030099778
+2024-01-18 09:34:19 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 1.0904632806777954, MAE is 0.9023059606552124, att_loss is 0.4946945011615753
+2024-01-18 09:34:19 - root - INFO      - run_ciao.py : 269 line - val time is 0.29378414154052734
+2024-01-18 09:34:21 - root - INFO      - run_ciao.py : 111 line - The 22-th epoch: 
+
+2024-01-18 09:34:21 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.935290257136027, MAE is 0.7655062079429626, att_loss is 0.49449214339256287
+2024-01-18 09:34:21 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.41255030035972595, AUC is 0.5055030562897224 and Average Precision is 0.15332468957815817
+2024-01-18 09:34:21 - root - INFO      - run_ciao.py : 115 line - training time is 1.7988816608082165
+2024-01-18 09:34:21 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 1.0322879552841187, MAE is 0.832179069519043, att_loss is 0.4940764307975769
+2024-01-18 09:34:21 - root - INFO      - run_ciao.py : 269 line - val time is 0.3101780414581299
+2024-01-18 09:34:23 - root - INFO      - run_ciao.py : 111 line - The 23-th epoch: 
+
+2024-01-18 09:34:23 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.8844262361526489, MAE is 0.6998167832692465, att_loss is 0.49387051661809284
+2024-01-18 09:34:23 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.4097056984901428, AUC is 0.5029934080772158 and Average Precision is 0.15277614179358034
+2024-01-18 09:34:23 - root - INFO      - run_ciao.py : 115 line - training time is 1.8039605099221934
+2024-01-18 09:34:24 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9950577020645142, MAE is 0.779828667640686, att_loss is 0.49345970153808594
+2024-01-18 09:34:24 - root - INFO      - run_ciao.py : 269 line - val time is 0.29894495010375977
+2024-01-18 09:34:26 - root - INFO      - run_ciao.py : 111 line - The 24-th epoch: 
+
+2024-01-18 09:34:26 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.8606288631757101, MAE is 0.6606570680936178, att_loss is 0.4932584961255391
+2024-01-18 09:34:26 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.40699303150177, AUC is 0.5006902620661103 and Average Precision is 0.15181597273471253
+2024-01-18 09:34:26 - root - INFO      - run_ciao.py : 115 line - training time is 1.8096935053666432
+2024-01-18 09:34:26 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9772461652755737, MAE is 0.7528452277183533, att_loss is 0.49284371733665466
+2024-01-18 09:34:26 - root - INFO      - run_ciao.py : 269 line - val time is 0.3088691234588623
+2024-01-18 09:34:28 - root - INFO      - run_ciao.py : 111 line - The 25-th epoch: 
+
+2024-01-18 09:34:28 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.8488412896792094, MAE is 0.6418614188830057, att_loss is 0.49263949195543927
+2024-01-18 09:34:28 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.40442122022310895, AUC is 0.49791161855505384 and Average Precision is 0.151278479340747
+2024-01-18 09:34:28 - root - INFO      - run_ciao.py : 115 line - training time is 1.8137220573425292
+2024-01-18 09:34:28 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9677456617355347, MAE is 0.7432959079742432, att_loss is 0.4922288954257965
+2024-01-18 09:34:28 - root - INFO      - run_ciao.py : 269 line - val time is 0.2707936763763428
+2024-01-18 09:34:30 - root - INFO      - run_ciao.py : 111 line - The 26-th epoch: 
+
+2024-01-18 09:34:30 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.840858538945516, MAE is 0.6361162662506104, att_loss is 0.49203240871429443
+2024-01-18 09:34:30 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.40199678142865497, AUC is 0.5031508736234948 and Average Precision is 0.1528969695003176
+2024-01-18 09:34:30 - root - INFO      - run_ciao.py : 115 line - training time is 1.8176697859397302
+2024-01-18 09:34:30 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9623612761497498, MAE is 0.7456340193748474, att_loss is 0.4916147291660309
+2024-01-18 09:34:30 - root - INFO      - run_ciao.py : 269 line - val time is 0.30172228813171387
+2024-01-18 09:34:32 - root - INFO      - run_ciao.py : 111 line - The 27-th epoch: 
+
+2024-01-18 09:34:32 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.835281252861023, MAE is 0.640501856803894, att_loss is 0.491417537132899
+2024-01-18 09:34:32 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.39972513914108276, AUC is 0.4950566249679 and Average Precision is 0.15075096246317646
+2024-01-18 09:34:32 - root - INFO      - run_ciao.py : 115 line - training time is 1.822122158827605
+2024-01-18 09:34:33 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9624033570289612, MAE is 0.7553069591522217, att_loss is 0.4910018742084503
+2024-01-18 09:34:33 - root - INFO      - run_ciao.py : 269 line - val time is 0.28903865814208984
+2024-01-18 09:34:35 - root - INFO      - run_ciao.py : 111 line - The 28-th epoch: 
+
+2024-01-18 09:34:35 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.8338181972503662, MAE is 0.6503901680310568, att_loss is 0.4908005694548289
+2024-01-18 09:34:35 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3976094325383504, AUC is 0.49282115051751285 and Average Precision is 0.15029150149306927
+2024-01-18 09:34:35 - root - INFO      - run_ciao.py : 115 line - training time is 1.8260437420436315
+2024-01-18 09:34:35 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9638707041740417, MAE is 0.7643685936927795, att_loss is 0.4903903901576996
+2024-01-18 09:34:35 - root - INFO      - run_ciao.py : 269 line - val time is 0.2811768054962158
+2024-01-18 09:34:37 - root - INFO      - run_ciao.py : 111 line - The 29-th epoch: 
+
+2024-01-18 09:34:37 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.8320573369661967, MAE is 0.6556164820988973, att_loss is 0.49019181728363037
+2024-01-18 09:34:37 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3956505258878072, AUC is 0.4951306863776683 and Average Precision is 0.15122341175421547
+2024-01-18 09:34:37 - root - INFO      - run_ciao.py : 115 line - training time is 1.830472518657816
+2024-01-18 09:34:37 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9612961411476135, MAE is 0.7646861672401428, att_loss is 0.4897797107696533
+2024-01-18 09:34:37 - root - INFO      - run_ciao.py : 269 line - val time is 0.30950927734375
+2024-01-18 09:34:39 - root - INFO      - run_ciao.py : 111 line - The 30-th epoch: 
+
+2024-01-18 09:34:39 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.8252174854278564, MAE is 0.6504509051640829, att_loss is 0.48958544929822284
+2024-01-18 09:34:39 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3938477337360382, AUC is 0.49221381668090697 and Average Precision is 0.1503483481991281
+2024-01-18 09:34:39 - root - INFO      - run_ciao.py : 115 line - training time is 1.8340712467829385
+2024-01-18 09:34:39 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9538414478302002, MAE is 0.7556799650192261, att_loss is 0.48917001485824585
+2024-01-18 09:34:39 - root - INFO      - run_ciao.py : 269 line - val time is 0.2864565849304199
+2024-01-18 09:34:41 - root - INFO      - run_ciao.py : 111 line - The 31-th epoch: 
+
+2024-01-18 09:34:41 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.8124414682388306, MAE is 0.6357602079709371, att_loss is 0.488971749941508
+2024-01-18 09:34:41 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3921980063120524, AUC is 0.4920527764195079 and Average Precision is 0.15044096398155063
+2024-01-18 09:34:41 - root - INFO      - run_ciao.py : 115 line - training time is 1.8374849980877292
+2024-01-18 09:34:42 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9447387456893921, MAE is 0.7423720955848694, att_loss is 0.4885615408420563
+2024-01-18 09:34:42 - root - INFO      - run_ciao.py : 269 line - val time is 0.3030886650085449
+2024-01-18 09:34:43 - root - INFO      - run_ciao.py : 111 line - The 32-th epoch: 
+
+2024-01-18 09:34:43 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.8000263770421346, MAE is 0.6198287407557169, att_loss is 0.4883633653322856
+2024-01-18 09:34:43 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.39069737990697223, AUC is 0.4895307155256537 and Average Precision is 0.1498418320791253
+2024-01-18 09:34:43 - root - INFO      - run_ciao.py : 115 line - training time is 1.8401430323719978
+2024-01-18 09:34:44 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9369131922721863, MAE is 0.7301030158996582, att_loss is 0.4879539906978607
+2024-01-18 09:34:44 - root - INFO      - run_ciao.py : 269 line - val time is 0.32433295249938965
+2024-01-18 09:34:46 - root - INFO      - run_ciao.py : 111 line - The 33-th epoch: 
+
+2024-01-18 09:34:46 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7914456526438395, MAE is 0.6076417962710062, att_loss is 0.4877633949120839
+2024-01-18 09:34:46 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.38933973511060077, AUC is 0.49075950190852863 and Average Precision is 0.15037072280832134
+2024-01-18 09:34:46 - root - INFO      - run_ciao.py : 115 line - training time is 1.8419507705804072
+2024-01-18 09:34:46 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9317505359649658, MAE is 0.7220133543014526, att_loss is 0.48734715580940247
+2024-01-18 09:34:46 - root - INFO      - run_ciao.py : 269 line - val time is 0.29622840881347656
+2024-01-18 09:34:48 - root - INFO      - run_ciao.py : 111 line - The 34-th epoch: 
+
+2024-01-18 09:34:48 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7838441133499146, MAE is 0.598969837029775, att_loss is 0.48715173204739887
+2024-01-18 09:34:48 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.38811800877253216, AUC is 0.48936630055702474 and Average Precision is 0.15008058715178021
+2024-01-18 09:34:48 - root - INFO      - run_ciao.py : 115 line - training time is 1.8440413615282845
+2024-01-18 09:34:48 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9289906024932861, MAE is 0.7189123034477234, att_loss is 0.4867417812347412
+2024-01-18 09:34:48 - root - INFO      - run_ciao.py : 269 line - val time is 0.28746604919433594
+2024-01-18 09:34:50 - root - INFO      - run_ciao.py : 111 line - The 35-th epoch: 
+
+2024-01-18 09:34:50 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7787701090176901, MAE is 0.5954841375350952, att_loss is 0.48654159903526306
+2024-01-18 09:34:50 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.38702405492464703, AUC is 0.4884901516390944 and Average Precision is 0.1501850357954816
+2024-01-18 09:34:50 - root - INFO      - run_ciao.py : 115 line - training time is 1.8450531346457346
+2024-01-18 09:34:50 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9276816844940186, MAE is 0.718803882598877, att_loss is 0.48613765835762024
+2024-01-18 09:34:50 - root - INFO      - run_ciao.py : 269 line - val time is 0.2886016368865967
+2024-01-18 09:34:52 - root - INFO      - run_ciao.py : 111 line - The 36-th epoch: 
+
+2024-01-18 09:34:52 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7756670514742533, MAE is 0.5945825378100077, att_loss is 0.48594093322753906
+2024-01-18 09:34:52 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3860494593779246, AUC is 0.49023504092927767 and Average Precision is 0.15076935940217243
+2024-01-18 09:34:52 - root - INFO      - run_ciao.py : 115 line - training time is 1.8483026756180658
+2024-01-18 09:34:53 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9266852140426636, MAE is 0.7192009091377258, att_loss is 0.48553428053855896
+2024-01-18 09:34:53 - root - INFO      - run_ciao.py : 269 line - val time is 0.2888932228088379
+2024-01-18 09:34:55 - root - INFO      - run_ciao.py : 111 line - The 37-th epoch: 
+
+2024-01-18 09:34:55 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7724677125612894, MAE is 0.5932165185610453, att_loss is 0.48534997304280597
+2024-01-18 09:34:55 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3851851423581441, AUC is 0.48800264777876673 and Average Precision is 0.1505421612976266
+2024-01-18 09:34:55 - root - INFO      - run_ciao.py : 115 line - training time is 1.8508571096368738
+2024-01-18 09:34:55 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9253579378128052, MAE is 0.7181590795516968, att_loss is 0.48493170738220215
+2024-01-18 09:34:55 - root - INFO      - run_ciao.py : 269 line - val time is 0.3086366653442383
+2024-01-18 09:34:57 - root - INFO      - run_ciao.py : 111 line - The 38-th epoch: 
+
+2024-01-18 09:34:57 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7689780394236246, MAE is 0.5907063881556193, att_loss is 0.4847441414992015
+2024-01-18 09:34:57 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3844218949476878, AUC is 0.49359669260883515 and Average Precision is 0.15225810871384468
+2024-01-18 09:34:57 - root - INFO      - run_ciao.py : 115 line - training time is 1.8525676350844533
+2024-01-18 09:34:57 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9233217239379883, MAE is 0.7156345844268799, att_loss is 0.4843304753303528
+2024-01-18 09:34:57 - root - INFO      - run_ciao.py : 269 line - val time is 0.300234317779541
+2024-01-18 09:34:59 - root - INFO      - run_ciao.py : 111 line - The 39-th epoch: 
+
+2024-01-18 09:34:59 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7653407255808512, MAE is 0.5865128437678019, att_loss is 0.48415543635686237
+2024-01-18 09:34:59 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3837508261203766, AUC is 0.4930869442203991 and Average Precision is 0.15238987137276158
+2024-01-18 09:34:59 - root - INFO      - run_ciao.py : 115 line - training time is 1.8540423466609075
+2024-01-18 09:34:59 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9210320711135864, MAE is 0.7118620276451111, att_loss is 0.48373010754585266
+2024-01-18 09:34:59 - root - INFO      - run_ciao.py : 269 line - val time is 0.32397031784057617
+2024-01-18 09:35:01 - root - INFO      - run_ciao.py : 111 line - The 40-th epoch: 
+
+2024-01-18 09:35:01 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7599091132481893, MAE is 0.5808213750521342, att_loss is 0.4835389256477356
+2024-01-18 09:35:01 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.38316308458646137, AUC is 0.49402190792541045 and Average Precision is 0.15270197152994605
+2024-01-18 09:35:01 - root - INFO      - run_ciao.py : 115 line - training time is 1.855161464214325
+2024-01-18 09:35:02 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9191726446151733, MAE is 0.7083962559700012, att_loss is 0.48313140869140625
+2024-01-18 09:35:02 - root - INFO      - run_ciao.py : 269 line - val time is 0.3023378849029541
+2024-01-18 09:35:03 - root - INFO      - run_ciao.py : 111 line - The 41-th epoch: 
+
+2024-01-18 09:35:03 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7560349702835083, MAE is 0.5761635502179464, att_loss is 0.48293795188268024
+2024-01-18 09:35:03 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3826502064863841, AUC is 0.4971359605065233 and Average Precision is 0.1540135904911775
+2024-01-18 09:35:03 - root - INFO      - run_ciao.py : 115 line - training time is 1.8566693038475224
+2024-01-18 09:35:04 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9174262881278992, MAE is 0.705490231513977, att_loss is 0.4825337529182434
+2024-01-18 09:35:04 - root - INFO      - run_ciao.py : 269 line - val time is 0.2663381099700928
+2024-01-18 09:35:06 - root - INFO      - run_ciao.py : 111 line - The 42-th epoch: 
+
+2024-01-18 09:35:06 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7526830037434896, MAE is 0.5728254119555155, att_loss is 0.48234376311302185
+2024-01-18 09:35:06 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3822043538093567, AUC is 0.5019149080579594 and Average Precision is 0.15576286200149977
+2024-01-18 09:35:06 - root - INFO      - run_ciao.py : 115 line - training time is 1.8578367346809024
+2024-01-18 09:35:06 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9162322878837585, MAE is 0.703961968421936, att_loss is 0.48193714022636414
+2024-01-18 09:35:06 - root - INFO      - run_ciao.py : 269 line - val time is 0.264392614364624
+2024-01-18 09:35:08 - root - INFO      - run_ciao.py : 111 line - The 43-th epoch: 
+
+2024-01-18 09:35:08 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7502182324727377, MAE is 0.5705325603485107, att_loss is 0.4817515214284261
+2024-01-18 09:35:08 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.381818026304245, AUC is 0.49839067598340775 and Average Precision is 0.15547429174958782
+2024-01-18 09:35:08 - root - INFO      - run_ciao.py : 115 line - training time is 1.8583620925282323
+2024-01-18 09:35:08 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9155126810073853, MAE is 0.703193187713623, att_loss is 0.48134127259254456
+2024-01-18 09:35:08 - root - INFO      - run_ciao.py : 269 line - val time is 0.29825925827026367
+2024-01-18 09:35:10 - root - INFO      - run_ciao.py : 111 line - The 44-th epoch: 
+
+2024-01-18 09:35:10 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7484464049339294, MAE is 0.5689131816228231, att_loss is 0.48116640249888104
+2024-01-18 09:35:10 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3814843197663625, AUC is 0.5039168651676832 and Average Precision is 0.15776563831982993
+2024-01-18 09:35:10 - root - INFO      - run_ciao.py : 115 line - training time is 1.8590877543796192
+2024-01-18 09:35:10 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9144247770309448, MAE is 0.7017938494682312, att_loss is 0.4807465374469757
+2024-01-18 09:35:10 - root - INFO      - run_ciao.py : 269 line - val time is 0.29401183128356934
+2024-01-18 09:35:12 - root - INFO      - run_ciao.py : 111 line - The 45-th epoch: 
+
+2024-01-18 09:35:12 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.745378851890564, MAE is 0.5666181842486063, att_loss is 0.48056307435035706
+2024-01-18 09:35:12 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3811970353126526, AUC is 0.5040349398908611 and Average Precision is 0.15849299894094587
+2024-01-18 09:35:12 - root - INFO      - run_ciao.py : 115 line - training time is 1.86051410569085
+2024-01-18 09:35:13 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.913652241230011, MAE is 0.7008954882621765, att_loss is 0.48015305399894714
+2024-01-18 09:35:13 - root - INFO      - run_ciao.py : 269 line - val time is 0.31186437606811523
+2024-01-18 09:35:14 - root - INFO      - run_ciao.py : 111 line - The 46-th epoch: 
+
+2024-01-18 09:35:14 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7428399125734965, MAE is 0.564671258131663, att_loss is 0.47995737195014954
+2024-01-18 09:35:14 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.38095031181971234, AUC is 0.5134807779002374 and Average Precision is 0.1617454128824224
+2024-01-18 09:35:14 - root - INFO      - run_ciao.py : 115 line - training time is 1.8610659837722778
+2024-01-18 09:35:15 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9130594730377197, MAE is 0.6999265551567078, att_loss is 0.4795609414577484
+2024-01-18 09:35:15 - root - INFO      - run_ciao.py : 269 line - val time is 0.28714823722839355
+2024-01-18 09:35:17 - root - INFO      - run_ciao.py : 111 line - The 47-th epoch: 
+
+2024-01-18 09:35:17 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.740500787893931, MAE is 0.5624463756879171, att_loss is 0.4793647825717926
+2024-01-18 09:35:17 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3807389537493388, AUC is 0.5168963516155397 and Average Precision is 0.16307682460940895
+2024-01-18 09:35:17 - root - INFO      - run_ciao.py : 115 line - training time is 1.8621103915762394
+2024-01-18 09:35:17 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9125241637229919, MAE is 0.6986925005912781, att_loss is 0.4789698123931885
+2024-01-18 09:35:17 - root - INFO      - run_ciao.py : 269 line - val time is 0.32305145263671875
+2024-01-18 09:35:19 - root - INFO      - run_ciao.py : 111 line - The 48-th epoch: 
+
+2024-01-18 09:35:19 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7399009863535563, MAE is 0.5610069433848063, att_loss is 0.4787968893845876
+2024-01-18 09:35:19 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.380558321873347, AUC is 0.5182875522513363 and Average Precision is 0.16442416576362298
+2024-01-18 09:35:19 - root - INFO      - run_ciao.py : 115 line - training time is 1.8626692493756611
+2024-01-18 09:35:19 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9118565320968628, MAE is 0.6971873641014099, att_loss is 0.47837933897972107
+2024-01-18 09:35:19 - root - INFO      - run_ciao.py : 269 line - val time is 0.2881777286529541
+2024-01-18 09:35:21 - root - INFO      - run_ciao.py : 111 line - The 49-th epoch: 
+
+2024-01-18 09:35:21 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.737960676352183, MAE is 0.5588775674502054, att_loss is 0.4782033363978068
+2024-01-18 09:35:21 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.38040412465731305, AUC is 0.5239311903284694 and Average Precision is 0.16662590871013508
+2024-01-18 09:35:21 - root - INFO      - run_ciao.py : 115 line - training time is 1.8629747264239254
+2024-01-18 09:35:21 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9113250970840454, MAE is 0.6963143944740295, att_loss is 0.4777902662754059
+2024-01-18 09:35:21 - root - INFO      - run_ciao.py : 269 line - val time is 0.31395697593688965
+2024-01-18 09:35:23 - root - INFO      - run_ciao.py : 111 line - The 50-th epoch: 
+
+2024-01-18 09:35:23 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7367340127627054, MAE is 0.5574836333592733, att_loss is 0.47761011123657227
+2024-01-18 09:35:23 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3802725672721863, AUC is 0.5302673672438889 and Average Precision is 0.16893176763730336
+2024-01-18 09:35:23 - root - INFO      - run_ciao.py : 115 line - training time is 1.8636620712280274
+2024-01-18 09:35:24 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9107187390327454, MAE is 0.695694088935852, att_loss is 0.47720229625701904
+2024-01-18 09:35:24 - root - INFO      - run_ciao.py : 269 line - val time is 0.32460832595825195
+2024-01-18 09:35:26 - root - INFO      - run_ciao.py : 111 line - The 51-th epoch: 
+
+2024-01-18 09:35:26 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7345892985661825, MAE is 0.5561613043149313, att_loss is 0.4770016570885976
+2024-01-18 09:35:26 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3801603615283966, AUC is 0.527903958299775 and Average Precision is 0.16919676163589412
+2024-01-18 09:35:26 - root - INFO      - run_ciao.py : 115 line - training time is 1.8656472178066479
+2024-01-18 09:35:26 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9103714823722839, MAE is 0.6954510807991028, att_loss is 0.4766160249710083
+2024-01-18 09:35:26 - root - INFO      - run_ciao.py : 269 line - val time is 0.349254846572876
+2024-01-18 09:35:28 - root - INFO      - run_ciao.py : 111 line - The 52-th epoch: 
+
+2024-01-18 09:35:28 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7347409129142761, MAE is 0.5560328165690104, att_loss is 0.4764394760131836
+2024-01-18 09:35:28 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3800644775231679, AUC is 0.533630021405106 and Average Precision is 0.17139371869446687
+2024-01-18 09:35:28 - root - INFO      - run_ciao.py : 115 line - training time is 1.872339652134822
+2024-01-18 09:35:28 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9101012349128723, MAE is 0.6947948932647705, att_loss is 0.4760302007198334
+2024-01-18 09:35:28 - root - INFO      - run_ciao.py : 269 line - val time is 0.35120725631713867
+2024-01-18 09:35:31 - root - INFO      - run_ciao.py : 111 line - The 53-th epoch: 
+
+2024-01-18 09:35:31 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7331456542015076, MAE is 0.5546615521113077, att_loss is 0.47583499550819397
+2024-01-18 09:35:31 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37998231252034503, AUC is 0.5362050950357856 and Average Precision is 0.1725477723629482
+2024-01-18 09:35:31 - root - INFO      - run_ciao.py : 115 line - training time is 1.8788679635749672
+2024-01-18 09:35:31 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9095724821090698, MAE is 0.693833589553833, att_loss is 0.47544580698013306
+2024-01-18 09:35:31 - root - INFO      - run_ciao.py : 269 line - val time is 0.35525941848754883
+2024-01-18 09:35:33 - root - INFO      - run_ciao.py : 111 line - The 54-th epoch: 
+
+2024-01-18 09:35:33 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7328101992607117, MAE is 0.5539202491442362, att_loss is 0.4752853711446126
+2024-01-18 09:35:33 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3799115717411041, AUC is 0.5400272861504466 and Average Precision is 0.17511850218620995
+2024-01-18 09:35:33 - root - INFO      - run_ciao.py : 115 line - training time is 1.8852483519801386
+2024-01-18 09:35:34 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9090334177017212, MAE is 0.693066418170929, att_loss is 0.47486206889152527
+2024-01-18 09:35:34 - root - INFO      - run_ciao.py : 269 line - val time is 0.3364882469177246
+2024-01-18 09:35:36 - root - INFO      - run_ciao.py : 111 line - The 55-th epoch: 
+
+2024-01-18 09:35:36 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7319531639417013, MAE is 0.5529839595158895, att_loss is 0.4746845066547394
+2024-01-18 09:35:36 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.379850298166275, AUC is 0.5475323767589769 and Average Precision is 0.17728253616525627
+2024-01-18 09:35:36 - root - INFO      - run_ciao.py : 115 line - training time is 1.8912554914301092
+2024-01-18 09:35:36 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9088565111160278, MAE is 0.6928266286849976, att_loss is 0.4742799401283264
+2024-01-18 09:35:36 - root - INFO      - run_ciao.py : 269 line - val time is 0.3462653160095215
+2024-01-18 09:35:38 - root - INFO      - run_ciao.py : 111 line - The 56-th epoch: 
+
+2024-01-18 09:35:38 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7312770485877991, MAE is 0.5525621573130289, att_loss is 0.4741097390651703
+2024-01-18 09:35:38 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37979672352472943, AUC is 0.5531108603297182 and Average Precision is 0.17872914275318755
+2024-01-18 09:35:38 - root - INFO      - run_ciao.py : 115 line - training time is 1.8983110444886344
+2024-01-18 09:35:39 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.908940315246582, MAE is 0.6926911473274231, att_loss is 0.4736989140510559
+2024-01-18 09:35:39 - root - INFO      - run_ciao.py : 269 line - val time is 0.3082275390625
+2024-01-18 09:35:41 - root - INFO      - run_ciao.py : 111 line - The 57-th epoch: 
+
+2024-01-18 09:35:41 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7299056450525919, MAE is 0.5515922506650289, att_loss is 0.4735209147135417
+2024-01-18 09:35:41 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37974944710731506, AUC is 0.5572647923157931 and Average Precision is 0.18214634499616814
+2024-01-18 09:35:41 - root - INFO      - run_ciao.py : 115 line - training time is 1.903587583909955
+2024-01-18 09:35:41 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9089248776435852, MAE is 0.6925720572471619, att_loss is 0.47311896085739136
+2024-01-18 09:35:41 - root - INFO      - run_ciao.py : 269 line - val time is 0.33005499839782715
+2024-01-18 09:35:44 - root - INFO      - run_ciao.py : 111 line - The 58-th epoch: 
+
+2024-01-18 09:35:44 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7306775053342184, MAE is 0.5520427624384562, att_loss is 0.47294463713963825
+2024-01-18 09:35:44 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3797072271505992, AUC is 0.5645218204927904 and Average Precision is 0.18436186115841477
+2024-01-18 09:35:44 - root - INFO      - run_ciao.py : 115 line - training time is 1.9102027580655854
+2024-01-18 09:35:44 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9088088870048523, MAE is 0.6923025250434875, att_loss is 0.4725402593612671
+2024-01-18 09:35:44 - root - INFO      - run_ciao.py : 269 line - val time is 0.33922767639160156
+2024-01-18 09:35:46 - root - INFO      - run_ciao.py : 111 line - The 59-th epoch: 
+
+2024-01-18 09:35:46 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7296818494796753, MAE is 0.5513566533724467, att_loss is 0.4723616341749827
+2024-01-18 09:35:46 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37966899077097577, AUC is 0.5711464077512999 and Average Precision is 0.18734126887566394
+2024-01-18 09:35:46 - root - INFO      - run_ciao.py : 115 line - training time is 1.9140554605904272
+2024-01-18 09:35:46 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9083069562911987, MAE is 0.691811203956604, att_loss is 0.47196269035339355
+2024-01-18 09:35:46 - root - INFO      - run_ciao.py : 269 line - val time is 0.2939426898956299
+2024-01-18 09:35:49 - root - INFO      - run_ciao.py : 111 line - The 60-th epoch: 
+
+2024-01-18 09:35:49 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7296012242635092, MAE is 0.5509600639343262, att_loss is 0.47178752223650616
+2024-01-18 09:35:49 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37963391343752545, AUC is 0.5715127242098866 and Average Precision is 0.18765851253051835
+2024-01-18 09:35:49 - root - INFO      - run_ciao.py : 115 line - training time is 1.919642202059428
+2024-01-18 09:35:49 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9078711867332458, MAE is 0.6908920407295227, att_loss is 0.4713861644268036
+2024-01-18 09:35:49 - root - INFO      - run_ciao.py : 269 line - val time is 0.36585283279418945
+2024-01-18 09:35:51 - root - INFO      - run_ciao.py : 111 line - The 61-th epoch: 
+
+2024-01-18 09:35:51 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7293644746144613, MAE is 0.5504152178764343, att_loss is 0.4712238311767578
+2024-01-18 09:35:51 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3796013593673706, AUC is 0.5779340423857806 and Average Precision is 0.19069736167420479
+2024-01-18 09:35:51 - root - INFO      - run_ciao.py : 115 line - training time is 1.925504168526071
+2024-01-18 09:35:52 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9080777168273926, MAE is 0.6909216642379761, att_loss is 0.4708107113838196
+2024-01-18 09:35:52 - root - INFO      - run_ciao.py : 269 line - val time is 0.3282585144042969
+2024-01-18 09:35:54 - root - INFO      - run_ciao.py : 111 line - The 62-th epoch: 
+
+2024-01-18 09:35:54 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7288428346316019, MAE is 0.5501453677813212, att_loss is 0.47064066926638287
+2024-01-18 09:35:54 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3795707623163859, AUC is 0.5775970053101017 and Average Precision is 0.19185397910560495
+2024-01-18 09:35:54 - root - INFO      - run_ciao.py : 115 line - training time is 1.9298158922503073
+2024-01-18 09:35:54 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9079527258872986, MAE is 0.690939724445343, att_loss is 0.4702366292476654
+2024-01-18 09:35:54 - root - INFO      - run_ciao.py : 269 line - val time is 0.3444812297821045
+2024-01-18 09:35:56 - root - INFO      - run_ciao.py : 111 line - The 63-th epoch: 
+
+2024-01-18 09:35:56 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7285574873288473, MAE is 0.5498775243759155, att_loss is 0.47007039189338684
+2024-01-18 09:35:56 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37954166531562805, AUC is 0.5801830699751391 and Average Precision is 0.19194094894099245
+2024-01-18 09:35:56 - root - INFO      - run_ciao.py : 115 line - training time is 1.9352394058590843
+2024-01-18 09:35:57 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9077208042144775, MAE is 0.6906500458717346, att_loss is 0.46966367959976196
+2024-01-18 09:35:57 - root - INFO      - run_ciao.py : 269 line - val time is 0.3167726993560791
+2024-01-18 09:35:59 - root - INFO      - run_ciao.py : 111 line - The 64-th epoch: 
+
+2024-01-18 09:35:59 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7287350296974182, MAE is 0.5501702229181925, att_loss is 0.4695039788881938
+2024-01-18 09:35:59 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37951380014419556, AUC is 0.5816806137086785 and Average Precision is 0.19254038468498524
+2024-01-18 09:35:59 - root - INFO      - run_ciao.py : 115 line - training time is 1.9383240789175034
+2024-01-18 09:35:59 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9075794816017151, MAE is 0.6906409859657288, att_loss is 0.4690919518470764
+2024-01-18 09:35:59 - root - INFO      - run_ciao.py : 269 line - val time is 0.33414793014526367
+2024-01-18 09:36:02 - root - INFO      - run_ciao.py : 111 line - The 65-th epoch: 
+
+2024-01-18 09:36:02 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7285704016685486, MAE is 0.5499202807744344, att_loss is 0.46892760197321576
+2024-01-18 09:36:02 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3794868489106496, AUC is 0.5864296883571166 and Average Precision is 0.19487865788334194
+2024-01-18 09:36:02 - root - INFO      - run_ciao.py : 115 line - training time is 1.9436835399040808
+2024-01-18 09:36:02 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9074686765670776, MAE is 0.690375804901123, att_loss is 0.4685215353965759
+2024-01-18 09:36:02 - root - INFO      - run_ciao.py : 269 line - val time is 0.3196835517883301
+2024-01-18 09:36:04 - root - INFO      - run_ciao.py : 111 line - The 66-th epoch: 
+
+2024-01-18 09:36:04 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7280548016230265, MAE is 0.5496189196904501, att_loss is 0.468348761399587
+2024-01-18 09:36:04 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.379460742076238, AUC is 0.5858569685548164 and Average Precision is 0.194428983223912
+2024-01-18 09:36:04 - root - INFO      - run_ciao.py : 115 line - training time is 1.9476431319207856
+2024-01-18 09:36:04 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9073598384857178, MAE is 0.690017580986023, att_loss is 0.46795225143432617
+2024-01-18 09:36:04 - root - INFO      - run_ciao.py : 269 line - val time is 0.3468661308288574
+2024-01-18 09:36:07 - root - INFO      - run_ciao.py : 111 line - The 67-th epoch: 
+
+2024-01-18 09:36:07 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7284581462542216, MAE is 0.5496440927187601, att_loss is 0.4677989681561788
+2024-01-18 09:36:07 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37943530082702637, AUC is 0.586666786018429 and Average Precision is 0.1958039351057345
+2024-01-18 09:36:07 - root - INFO      - run_ciao.py : 115 line - training time is 1.9523325678127914
+2024-01-18 09:36:07 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9072873592376709, MAE is 0.6897307634353638, att_loss is 0.4673840403556824
+2024-01-18 09:36:07 - root - INFO      - run_ciao.py : 269 line - val time is 0.3231937885284424
+2024-01-18 09:36:09 - root - INFO      - run_ciao.py : 111 line - The 68-th epoch: 
+
+2024-01-18 09:36:09 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7285844882329305, MAE is 0.5496265490849813, att_loss is 0.46723638971646625
+2024-01-18 09:36:09 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3794105152289073, AUC is 0.5844134706267811 and Average Precision is 0.19436734035511435
+2024-01-18 09:36:09 - root - INFO      - run_ciao.py : 115 line - training time is 1.9548207030576819
+2024-01-18 09:36:09 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9072147011756897, MAE is 0.6898452639579773, att_loss is 0.4668169319629669
+2024-01-18 09:36:09 - root - INFO      - run_ciao.py : 269 line - val time is 0.34998583793640137
+2024-01-18 09:36:12 - root - INFO      - run_ciao.py : 111 line - The 69-th epoch: 
+
+2024-01-18 09:36:12 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7279200752576193, MAE is 0.5494972268740336, att_loss is 0.4666495621204376
+2024-01-18 09:36:12 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3793863256772359, AUC is 0.5909729029883167 and Average Precision is 0.19676697724017547
+2024-01-18 09:36:12 - root - INFO      - run_ciao.py : 115 line - training time is 1.9583678452864937
+2024-01-18 09:36:12 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9074252247810364, MAE is 0.6900430917739868, att_loss is 0.46625131368637085
+2024-01-18 09:36:12 - root - INFO      - run_ciao.py : 269 line - val time is 0.3407270908355713
+2024-01-18 09:36:14 - root - INFO      - run_ciao.py : 111 line - The 70-th epoch: 
+
+2024-01-18 09:36:14 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7281226515769958, MAE is 0.5496829350789388, att_loss is 0.4660706619421641
+2024-01-18 09:36:14 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3793627421061198, AUC is 0.5776784004032303 and Average Precision is 0.19160679042204132
+2024-01-18 09:36:14 - root - INFO      - run_ciao.py : 115 line - training time is 1.9615326029913767
+2024-01-18 09:36:15 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9073261618614197, MAE is 0.6902520060539246, att_loss is 0.4656870663166046
+2024-01-18 09:36:15 - root - INFO      - run_ciao.py : 269 line - val time is 0.34708738327026367
+2024-01-18 09:36:17 - root - INFO      - run_ciao.py : 111 line - The 71-th epoch: 
+
+2024-01-18 09:36:17 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7275735139846802, MAE is 0.5496998429298401, att_loss is 0.46549959977467853
+2024-01-18 09:36:17 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3793398042519887, AUC is 0.5922914744770845 and Average Precision is 0.1974756896606117
+2024-01-18 09:36:17 - root - INFO      - run_ciao.py : 115 line - training time is 1.9651850411589717
+2024-01-18 09:36:17 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9072632193565369, MAE is 0.6900742053985596, att_loss is 0.46512407064437866
+2024-01-18 09:36:17 - root - INFO      - run_ciao.py : 269 line - val time is 0.3088717460632324
+2024-01-18 09:36:19 - root - INFO      - run_ciao.py : 111 line - The 72-th epoch: 
+
+2024-01-18 09:36:19 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.728197971979777, MAE is 0.5496647953987122, att_loss is 0.4649578332901001
+2024-01-18 09:36:19 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3793175021807353, AUC is 0.5749915329146664 and Average Precision is 0.1908696195401982
+2024-01-18 09:36:19 - root - INFO      - run_ciao.py : 115 line - training time is 1.9682527912987604
+2024-01-18 09:36:20 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9071715474128723, MAE is 0.6896811127662659, att_loss is 0.46456167101860046
+2024-01-18 09:36:20 - root - INFO      - run_ciao.py : 269 line - val time is 0.30832862854003906
+2024-01-18 09:36:22 - root - INFO      - run_ciao.py : 111 line - The 73-th epoch: 
+
+2024-01-18 09:36:22 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7285993496576945, MAE is 0.5495624740918478, att_loss is 0.4644034703572591
+2024-01-18 09:36:22 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37929582595825195, AUC is 0.5770697959747696 and Average Precision is 0.1927473340315755
+2024-01-18 09:36:22 - root - INFO      - run_ciao.py : 115 line - training time is 1.9727596387471238
+2024-01-18 09:36:22 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9069890379905701, MAE is 0.6892654299736023, att_loss is 0.464000403881073
+2024-01-18 09:36:22 - root - INFO      - run_ciao.py : 269 line - val time is 0.3123621940612793
+2024-01-18 09:36:25 - root - INFO      - run_ciao.py : 111 line - The 74-th epoch: 
+
+2024-01-18 09:36:25 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7280872662862142, MAE is 0.5492529074350992, att_loss is 0.4638134837150574
+2024-01-18 09:36:25 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3792749047279358, AUC is 0.5839585520550695 and Average Precision is 0.19520613291573438
+2024-01-18 09:36:25 - root - INFO      - run_ciao.py : 115 line - training time is 1.977567872485599
+2024-01-18 09:36:25 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9069877862930298, MAE is 0.6896535158157349, att_loss is 0.46344074606895447
+2024-01-18 09:36:25 - root - INFO      - run_ciao.py : 269 line - val time is 0.34996962547302246
+2024-01-18 09:36:27 - root - INFO      - run_ciao.py : 111 line - The 75-th epoch: 
+
+2024-01-18 09:36:27 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7288636167844137, MAE is 0.5498393774032593, att_loss is 0.4632689158121745
+2024-01-18 09:36:27 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37925468881924945, AUC is 0.5841524144311299 and Average Precision is 0.1942678044742472
+2024-01-18 09:36:27 - root - INFO      - run_ciao.py : 115 line - training time is 1.98252960840861
+2024-01-18 09:36:28 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9070544242858887, MAE is 0.6897781491279602, att_loss is 0.46288198232650757
+2024-01-18 09:36:28 - root - INFO      - run_ciao.py : 269 line - val time is 0.3651261329650879
+2024-01-18 09:36:30 - root - INFO      - run_ciao.py : 111 line - The 76-th epoch: 
+
+2024-01-18 09:36:30 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7294474840164185, MAE is 0.5503936608632406, att_loss is 0.46273167928059894
+2024-01-18 09:36:30 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3792352080345154, AUC is 0.5833902336776409 and Average Precision is 0.19540068323502502
+2024-01-18 09:36:30 - root - INFO      - run_ciao.py : 115 line - training time is 1.9871822281887657
+2024-01-18 09:36:30 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9067760109901428, MAE is 0.689562201499939, att_loss is 0.46232444047927856
+2024-01-18 09:36:30 - root - INFO      - run_ciao.py : 269 line - val time is 0.3552663326263428
+2024-01-18 09:36:33 - root - INFO      - run_ciao.py : 111 line - The 77-th epoch: 
+
+2024-01-18 09:36:33 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7290034691492716, MAE is 0.5504070520401001, att_loss is 0.46216095487276715
+2024-01-18 09:36:33 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3792164921760559, AUC is 0.5723663410144314 and Average Precision is 0.18978385815292886
+2024-01-18 09:36:33 - root - INFO      - run_ciao.py : 115 line - training time is 1.9920458422078715
+2024-01-18 09:36:33 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9070523977279663, MAE is 0.6899268627166748, att_loss is 0.4617680609226227
+2024-01-18 09:36:33 - root - INFO      - run_ciao.py : 269 line - val time is 0.368727445602417
+2024-01-18 09:36:35 - root - INFO      - run_ciao.py : 111 line - The 78-th epoch: 
+
+2024-01-18 09:36:35 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.729503313700358, MAE is 0.5507643421490988, att_loss is 0.4615882436434428
+2024-01-18 09:36:35 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3791985909144084, AUC is 0.5759691831403783 and Average Precision is 0.19113449611331132
+2024-01-18 09:36:35 - root - INFO      - run_ciao.py : 115 line - training time is 1.9957157190029438
+2024-01-18 09:36:36 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9068490266799927, MAE is 0.6896023154258728, att_loss is 0.46121320128440857
+2024-01-18 09:36:36 - root - INFO      - run_ciao.py : 269 line - val time is 0.3462178707122803
+2024-01-18 09:36:38 - root - INFO      - run_ciao.py : 111 line - The 79-th epoch: 
+
+2024-01-18 09:36:38 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7300177216529846, MAE is 0.5509436925252279, att_loss is 0.4610569377740224
+2024-01-18 09:36:38 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37918147444725037, AUC is 0.5764617988936203 and Average Precision is 0.19048698060484237
+2024-01-18 09:36:38 - root - INFO      - run_ciao.py : 115 line - training time is 1.9999790976319132
+2024-01-18 09:36:38 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9066616296768188, MAE is 0.6892306208610535, att_loss is 0.4606592357158661
+2024-01-18 09:36:38 - root - INFO      - run_ciao.py : 269 line - val time is 0.3484456539154053
+2024-01-18 09:36:41 - root - INFO      - run_ciao.py : 111 line - The 80-th epoch: 
+
+2024-01-18 09:36:41 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7297969659169515, MAE is 0.5506376028060913, att_loss is 0.4605233867963155
+2024-01-18 09:36:41 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37916507323582965, AUC is 0.5759867010132146 and Average Precision is 0.1919210119985919
+2024-01-18 09:36:41 - root - INFO      - run_ciao.py : 115 line - training time is 2.004024589061737
+2024-01-18 09:36:41 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9067198634147644, MAE is 0.6891282200813293, att_loss is 0.4601062834262848
+2024-01-18 09:36:41 - root - INFO      - run_ciao.py : 269 line - val time is 0.37154150009155273
+2024-01-18 09:36:43 - root - INFO      - run_ciao.py : 111 line - The 81-th epoch: 
+
+2024-01-18 09:36:43 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7296772996584574, MAE is 0.5507285396258036, att_loss is 0.45994266867637634
+2024-01-18 09:36:43 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37914947668711346, AUC is 0.5766001117660512 and Average Precision is 0.1917680701113915
+2024-01-18 09:36:43 - root - INFO      - run_ciao.py : 115 line - training time is 2.0083112334027704
+2024-01-18 09:36:44 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9065746068954468, MAE is 0.6890029311180115, att_loss is 0.45955485105514526
+2024-01-18 09:36:44 - root - INFO      - run_ciao.py : 269 line - val time is 0.34070396423339844
+2024-01-18 09:36:46 - root - INFO      - run_ciao.py : 111 line - The 82-th epoch: 
+
+2024-01-18 09:36:46 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7300721804300944, MAE is 0.5511843959490458, att_loss is 0.45939626296361286
+2024-01-18 09:36:46 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37913461526234943, AUC is 0.5746158024156565 and Average Precision is 0.1915358946453208
+2024-01-18 09:36:46 - root - INFO      - run_ciao.py : 115 line - training time is 2.0105908411305125
+2024-01-18 09:36:46 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9070122838020325, MAE is 0.6895809173583984, att_loss is 0.45900464057922363
+2024-01-18 09:36:46 - root - INFO      - run_ciao.py : 269 line - val time is 0.32137131690979004
+2024-01-18 09:36:48 - root - INFO      - run_ciao.py : 111 line - The 83-th epoch: 
+
+2024-01-18 09:36:48 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7302561004956564, MAE is 0.5513349771499634, att_loss is 0.45884939034779865
+2024-01-18 09:36:48 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.37912046909332275, AUC is 0.5749904463153656 and Average Precision is 0.19134490333056275
+2024-01-18 09:36:48 - root - INFO      - run_ciao.py : 115 line - training time is 2.0103396507630866
+2024-01-18 09:36:49 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9068340063095093, MAE is 0.6895387172698975, att_loss is 0.4584556818008423
+2024-01-18 09:36:49 - root - INFO      - run_ciao.py : 269 line - val time is 0.33281636238098145
+2024-01-18 09:36:51 - root - INFO      - run_ciao.py : 111 line - The 84-th epoch: 
+
+2024-01-18 09:36:51 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.729430357615153, MAE is 0.5508283575375875, att_loss is 0.4582751890023549
+2024-01-18 09:36:51 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3791070580482483, AUC is 0.5733415118141078 and Average Precision is 0.19047498753221173
+2024-01-18 09:36:51 - root - INFO      - run_ciao.py : 115 line - training time is 2.011255062761761
+2024-01-18 09:36:51 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.9068092107772827, MAE is 0.6899272799491882, att_loss is 0.4579080641269684
+2024-01-18 09:36:51 - root - INFO      - run_ciao.py : 269 line - val time is 0.34862780570983887
+2024-01-18 09:36:53 - root - INFO      - run_ciao.py : 111 line - The 85-th epoch: 
+
+2024-01-18 09:36:53 - root - INFO      - run_ciao.py : 112 line - For Rating Prediction: RMSE is 0.7301056782404581, MAE is 0.5513897736867269, att_loss is 0.45774073402086896
+2024-01-18 09:36:53 - root - INFO      - run_ciao.py : 113 line - For Trust Relation: loss is 0.3790942629178365, AUC is 0.5634685178190401 and Average Precision is 0.18687003003009214
+2024-01-18 09:36:53 - root - INFO      - run_ciao.py : 115 line - training time is 2.0118478522581213
+2024-01-18 09:36:53 - root - INFO      - run_ciao.py : 268 line - val Rating Prediction: RMSE is 0.90665602684021, MAE is 0.6898813843727112, att_loss is 0.4573615789413452
+2024-01-18 09:36:53 - root - INFO      - run_ciao.py : 269 line - val time is 0.3542201519012451
+2024-01-18 09:36:56 - root - INFO      - run_ciao.py : 111 line - The 86-th epoch: 
+
+
+2024-01-18 09:40:15 - root - INFO      - run_ciao.py : 211 line - For Rating Prediction: RMSE is 0.9065909385681152, MAE is 0.6895980834960938, att_loss is 0.4568161368370056
+2024-01-18 09:40:15 - root - INFO      - run_ciao.py : 212 line - test time is 0.1420001983642578
+
